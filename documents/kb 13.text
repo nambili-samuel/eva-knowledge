@@ -1,0 +1,186 @@
+# Eva Geises – History of Namibia Knowledge Base
+
+############################
+# PRE-COLONIAL HISTORY
+############################
+
+[INTENT] earliest_history_namibia
+earliest history of namibia
+first inhabitants of namibia
+RESPONSE:
+The earliest inhabitants of Namibia were the San people, who have lived in the region for over 20,000 years. They were later joined by Nama and Damara communities.
+
+[INTENT] san_people
+san bushmen
+san rock art
+RESPONSE:
+The San people created rock paintings and engravings found at sites like Twyfelfontein, some dating back more than 6,000 years.
+
+[INTENT] bantu_migrations
+bantu migrations
+owambo herero origins
+RESPONSE:
+Bantu-speaking groups such as the Owambo and Herero migrated into Namibia between 500 and 1500 AD, establishing farming and cattle-based societies.
+
+[INTENT] precolonial_society
+traditional society
+pre colonial trade
+RESPONSE:
+Pre-colonial societies were organized around kinship, cattle herding, agriculture, and regional trade networks linking inland communities to the coast.
+
+############################
+# EARLY EUROPEAN CONTACT
+############################
+
+[INTENT] european_arrival
+first europeans namibia
+portuguese explorers
+RESPONSE:
+Portuguese explorers, including Diogo Cão, reached the Namibian coast in the late 15th century, followed later by Dutch and British traders.
+
+[INTENT] walvis_bay_history
+walvis bay history
+british dutch influence
+RESPONSE:
+Walvis Bay became a strategic harbor, controlled by the Dutch and later annexed by Britain in 1878 as part of the Cape Colony.
+
+############################
+# GERMAN COLONIAL PERIOD
+############################
+
+[INTENT] german_colonization
+german south west africa
+german colonization
+RESPONSE:
+Germany declared Namibia a protectorate in 1884, ruling it as German South West Africa until 1915.
+
+[INTENT] herero_nama_genocide
+herero nama genocide
+genocide namibia
+RESPONSE:
+Between 1904 and 1908, German forces carried out the genocide of the Herero and Nama peoples, killing about 80,000 people through warfare, starvation, and concentration camps.
+
+[INTENT] genocide_events
+waterberg battle
+shark island
+RESPONSE:
+Key events included the Battle of Waterberg in 1904 and concentration camps such as Shark Island, where thousands died from disease and forced labor.
+
+############################
+# SOUTH AFRICAN RULE & APARTHEID
+############################
+
+[INTENT] south_african_rule
+south african rule
+league of nations mandate
+RESPONSE:
+After World War I, South Africa took control of Namibia under a League of Nations mandate and later imposed apartheid policies.
+
+[INTENT] apartheid_system
+apartheid namibia
+pass laws
+RESPONSE:
+Apartheid laws enforced racial segregation, migrant labor, pass laws, and inferior education under the Bantu Education system.
+
+[INTENT] contract_labor
+contract labor system
+RESPONSE:
+Black Namibians were forced into a migrant labor system, supplying mines and farms while being separated from their families.
+
+############################
+# LIBERATION STRUGGLE
+############################
+
+[INTENT] swapo_history
+what is swapo
+liberation movement
+RESPONSE:
+SWAPO (South West Africa People’s Organization) was founded in 1960 to fight South African rule and lead Namibia to independence.
+
+[INTENT] armed_struggle
+armed struggle
+ongulumbashe
+RESPONSE:
+The armed struggle began on 26 August 1966 at Ongulumbashe, led by SWAPO’s military wing, PLAN.
+
+[INTENT] international_support
+cuba angola un
+RESPONSE:
+Namibia’s liberation was supported by countries such as Angola, Cuba, the USSR, Nordic nations, and the United Nations.
+
+[INTENT] cassinga_massacre
+cassinga
+kassinga massacre
+RESPONSE:
+In 1978, South African forces attacked a SWAPO refugee camp at Cassinga in Angola, killing hundreds of civilians.
+
+############################
+# INDEPENDENCE
+############################
+
+[INTENT] independence_namibia
+when did namibia gain independence
+RESPONSE:
+Namibia gained independence on 21 March 1990 following UN-supervised elections won by SWAPO.
+
+[INTENT] independence_ceremony
+independence ceremony
+RESPONSE:
+The independence ceremony took place at Windhoek’s Independence Stadium and was attended by Nelson Mandela and global leaders.
+
+[INTENT] constitution_history
+constitution drafting
+RESPONSE:
+The Constituent Assembly drafted and adopted Namibia’s Constitution in February 1990, emphasizing democracy and human rights.
+
+############################
+# POST-INDEPENDENCE ERA
+############################
+
+[INTENT] post_independence
+post independence history
+RESPONSE:
+Post-independence Namibia focused on reconciliation, nation-building, democratic governance, and gradual land reform.
+
+[INTENT] walvis_bay_return
+return of walvis bay
+RESPONSE:
+Walvis Bay was formally transferred from South Africa to Namibia in 1994.
+
+[INTENT] land_reform_history
+land reform history
+RESPONSE:
+Land reform has been gradual and controversial, aiming to address colonial land dispossession.
+
+[INTENT] genocide_reparations
+germany genocide apology
+RESPONSE:
+Germany formally acknowledged the genocide in 2004 and agreed to a reparations framework in 2021.
+
+############################
+# CULTURE, MEMORY & SOCIETY
+############################
+
+[INTENT] role_of_women
+women liberation struggle
+RESPONSE:
+Women played crucial roles in the liberation struggle, refugee support, and post-independence reconstruction.
+
+[INTENT] churches_and_unions
+churches unions role
+RESPONSE:
+Churches, trade unions, students, artists, and journalists were vital in resisting apartheid and mobilizing society.
+
+[INTENT] memory_history
+memorials museums
+RESPONSE:
+Namibia preserves its history through monuments like Heroes’ Acre, museums, archives, and oral traditions.
+
+############################
+# FALLBACK
+############################
+
+[INTENT] history_fallback
+RESPONSE:
+I can explain Namibia’s history from ancient times to independence 🇳🇦  
+Ask about pre-colonial societies, colonialism, the liberation struggle, or independence.
