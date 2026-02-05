@@ -1,0 +1,196 @@
+################################################
+# ECONOMIC & FINANCIAL HISTORY
+################################################
+
+[INTENT] community_finance_history
+credit unions
+microfinance
+community savings
+RESPONSE:
+Community finance in Namibia developed through credit unions, savings groups, and microfinance institutions that supported small businesses and household resilience, especially after independence.
+
+[INTENT] economy_structure_history
+informal economy
+formal economy
+mixed economy
+RESPONSE:
+Namibia’s economy includes a strong informal sector (street vendors, small traders), a formal corporate sector, and a mixed economy model combining state enterprises and private businesses.
+
+[INTENT] investment_history
+foreign investment
+local investment
+RESPONSE:
+Foreign investment played a major role in mining and infrastructure, while local investment grew after independence through Namibian entrepreneurs and empowerment policies.
+
+[INTENT] public_finance_history
+taxation
+budgeting
+public finance
+monetary policy
+RESPONSE:
+Namibia’s public finance system evolved from colonial extraction to modern budgeting, taxation, and monetary policy linked to the Namibian dollar and South African rand.
+
+################################################
+# SECTORAL & DEVELOPMENT POLICIES
+################################################
+
+[INTENT] sector_policies_history
+agriculture policy
+mining policy
+fishing policy
+tourism policy
+RESPONSE:
+Post-independence Namibia introduced sector policies to regulate mining, fisheries, tourism, and agriculture while promoting sustainability and local participation.
+
+[INTENT] infrastructure_policy_history
+transport policy
+communication policy
+energy policy
+water policy
+RESPONSE:
+Infrastructure policy focused on roads, rail, ports, telecoms, energy, and water management to support development in an arid country.
+
+[INTENT] social_policy_history
+housing policy
+education policy
+health policy
+social welfare
+RESPONSE:
+Social policies expanded housing, education, healthcare, pensions, and grants to address inequality inherited from colonial and apartheid systems.
+
+################################################
+# GOVERNANCE & STATE HISTORY
+################################################
+
+[INTENT] governance_history
+public sector
+civil service
+local government
+RESPONSE:
+Namibia developed a professional public sector after independence, with regional and municipal governments delivering services nationwide.
+
+[INTENT] political_system_history
+parliament
+executive
+elections
+political parties
+RESPONSE:
+Namibia operates a constitutional democracy with an elected parliament, executive presidency, independent judiciary, and regular elections.
+
+[INTENT] security_policy_history
+defense policy
+police policy
+intelligence
+prisons
+RESPONSE:
+Security institutions evolved from apartheid-era control systems into national defense, policing, intelligence, and rehabilitation services under democratic oversight.
+
+################################################
+# RIGHTS, DEMOCRACY & SOCIETY
+################################################
+
+[INTENT] rights_and_participation_history
+protests
+resistance
+repression
+participation
+RESPONSE:
+Namibia’s history includes resistance to repression, popular protests, and growing citizen participation in governance and civil society.
+
+[INTENT] reconciliation_development_history
+reconciliation
+development
+underdevelopment
+RESPONSE:
+After independence, Namibia prioritized reconciliation and gradual development while confronting poverty, inequality, and structural underdevelopment.
+
+################################################
+# ENVIRONMENT & CLIMATE HISTORY
+################################################
+
+[INTENT] environmental_history
+climate change
+drought
+floods
+RESPONSE:
+Namibia’s environmental history is shaped by droughts, floods, and climate variability, influencing settlement patterns and policy responses.
+
+################################################
+# HEALTH HISTORY
+################################################
+
+[INTENT] disease_health_history
+hiv aids
+tb
+malaria
+covid
+RESPONSE:
+Namibia has faced major health challenges including HIV/AIDS, tuberculosis, malaria, and COVID-19, responding through public health programs and international cooperation.
+
+[INTENT] healthcare_system_history
+traditional medicine
+western medicine
+missionary medicine
+RESPONSE:
+Healthcare evolved from traditional healing and missionary clinics to a national health system combining modern medicine and community care.
+
+################################################
+# GROUP IDENTITY & COMMUNITY
+################################################
+
+[INTENT] greeting
+what's up
+hello
+RESPONSE:
+What's up! 🇳🇦 You’ve reached Namibian Time — your gateway to Namibia conversations. What interests you?
+
+[INTENT] group_purpose
+what is this group
+what do you discuss
+RESPONSE:
+Namibian Time is a community for everything Namibia — culture, news, tourism, business, history, and connecting people worldwide.
+
+[INTENT] membership_info
+is this for namibians only
+who can join
+RESPONSE:
+Everyone is welcome! Namibian Time is for locals, diaspora, tourists, expats, and anyone interested in Namibia.
+
+################################################
+# BOT INFORMATION
+################################################
+
+[INTENT] bot_capabilities
+what can you do
+how can you help
+RESPONSE:
+I answer Namibia FAQs, share travel tips, explain group rules, and help you connect with our community 🇳🇦
+
+[INTENT] help_command
+help
+RESPONSE:
+Ask me about Namibia history, travel, culture, group rules, or community info. I’m here to help!
+
+################################################
+# ADMIN & MODERATION
+################################################
+
+[INTENT] admin_contact
+need admin
+contact moderator
+RESPONSE:
+To reach admins or moderators, please use /report with details. Our team will assist you shortly.
+
+[INTENT] group_rules
+rules
+what is not allowed
+RESPONSE:
+Main rules: Be respectful, stay Namibia-focused, no spam, no hate speech, and share accurate information.
+
+################################################
+# FALLBACK
+################################################
+
+[INTENT] fallback
+RESPONSE:
+I can help with Namibia 🇳🇦 history, tourism, culture, policies, and community info. Try asking in another way!
