@@ -1,0 +1,110 @@
+# Eva Geises – Namibia Self-Drive Knowledge Base
+# Focus: Self-drive travel, routes, vehicles, budgeting, packing
+
+[INTENT] self_drive_overview
+self drive namibia
+is namibia good for self drive
+driving in namibia
+RESPONSE:
+Namibia is one of Africa’s best self-drive destinations thanks to good roads, reliable car rentals, high safety standards, and wide-open landscapes perfect for independent exploration.
+
+[INTENT] self_drive_requirements
+what do i need for self drive
+requirements for self drive namibia
+RESPONSE:
+You need a reliable vehicle, an international driver’s license, a good map or GPS, and a sense of adventure to self-drive in Namibia.
+
+[INTENT] planning_routes
+how to plan a self drive route
+self drive itinerary namibia
+RESPONSE:
+Planning your route is part of the fun. Decide how much time to spend at each destination and consider consulting a certified Namibia travel specialist or self-drive operator for itinerary advice.
+
+[INTENT] classic_itinerary
+classic namibia self drive itinerary
+two week namibia road trip
+RESPONSE:
+A classic two-week self-drive route includes Windhoek, Central Highlands, Etosha National Park, Twyfelfontein, Damaraland, the Skeleton Coast, Swakopmund, Walvis Bay, Namib-Naukluft Park, Sossusvlei, and return to Windhoek via scenic mountain passes.
+
+[INTENT] etosha_self_drive
+self drive etosha
+driving in etosha national park
+RESPONSE:
+Etosha National Park is ideal for self-drive safaris, with well-marked roads and waterholes where wildlife can be observed at a relaxed pace.
+
+[INTENT] twyfelfontein_info
+twyfelfontein self drive
+twyfelfontein rock art
+RESPONSE:
+Twyfelfontein is Namibia’s only UNESCO World Heritage Site, famous for ancient rock art dating back thousands of years and easily accessible on a self-drive route.
+
+[INTENT] skeleton_coast_drive
+drive skeleton coast
+skeleton coast road trip
+RESPONSE:
+The Skeleton Coast offers a dramatic self-drive experience with desert landscapes, shipwrecks, foggy shores, and large seal colonies at Cape Cross.
+
+[INTENT] swakopmund_activities
+things to do swakopmund
+swakopmund adventure activities
+RESPONSE:
+Swakopmund offers quad biking, sandboarding, skydiving, angling, dolphin cruises, and coastal adventures, making it a popular stop on self-drive itineraries.
+
+[INTENT] sossusvlei_drive
+driving to sossusvlei
+self drive sossusvlei
+RESPONSE:
+Sossusvlei is accessed via Sesriem and features iconic red dunes like Dune 45 and Big Daddy, Deadvlei, and Sesriem Canyon — all highlights of a Namibia self-drive trip.
+
+[INTENT] choosing_vehicle
+best car for namibia
+2wd or 4wd namibia
+RESPONSE:
+Both 2WD and 4WD vehicles are suitable in Namibia. Major attractions can be reached with a 2WD, while 4WD vehicles offer more flexibility, ground clearance, and access to remote areas.
+
+[INTENT] car_rental
+car rental namibia
+renting a car namibia
+RESPONSE:
+Car rental companies in Namibia follow high standards, especially members of CARAN, the Car Rental Association of Namibia, which protects travelers against sub-standard service.
+
+[INTENT] packing_tips
+what to pack for namibia road trip
+self drive packing list
+RESPONSE:
+Pack camping gear, sufficient water, cooking equipment, spare vehicle parts, torches, firewood, appropriate clothing, sun protection, and essentials like binoculars and a camera.
+
+[INTENT] camping_tips
+camping in namibia self drive
+self drive camping
+RESPONSE:
+Namibia offers excellent camping options. Rooftop tents are popular for ease of use, safety, and comfort, while ground tents are also suitable with proper preparation.
+
+[INTENT] budgeting
+how much does a self drive cost
+namibia self drive budget
+RESPONSE:
+Self-drive budgets vary. Typical costs include fuel, campsites, meals, park entrance fees, and accommodation. Sharing costs with fellow travelers can help reduce expenses.
+
+[INTENT] money_access
+money in namibia
+atm and credit cards namibia
+RESPONSE:
+ATMs are available in major towns. Credit cards are widely accepted in cities and lodges but may not be accepted in small towns, markets, or rural areas.
+
+[INTENT] internet_access
+internet in namibia
+wifi availability namibia
+RESPONSE:
+Most lodges and hotels offer Internet access, and Wi-Fi is available in many cafes and restaurants in major towns.
+
+[INTENT] safety_self_drive
+is namibia safe to drive
+self drive safety namibia
+RESPONSE:
+Namibia is considered a safe self-drive destination. Travelers should remain self-sufficient, plan routes carefully, carry enough water and fuel, and respect road conditions.
+
+[INTENT] fallback
+RESPONSE:
+I can help you plan an amazing self-drive adventure across Namibia 🚗🇳🇦  
+Ask me about routes, vehicles, costs, or must-see destinations!
