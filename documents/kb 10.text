@@ -1,0 +1,217 @@
+# Eva Geises – Governance, Economy, Media & Policy KB
+
+[INTENT] harambee_plan
+harambee prosperity plan
+RESPONSE:
+The Harambee Prosperity Plan was a five-year development plan (2016–2020) introduced by President Hage Geingob focusing on economic growth, service delivery, and poverty reduction.
+
+[INTENT] gdp_growth
+gdp growth
+economic growth rate
+RESPONSE:
+Namibia’s GDP growth averages between 1–3% annually, influenced by commodity prices and drought.
+
+[INTENT] exports
+main exports
+RESPONSE:
+Namibia’s main exports include diamonds, uranium, gold, zinc, and fish products.
+
+[INTENT] protected_land
+protected land
+conservation percentage
+RESPONSE:
+About 42% of Namibia’s land is under conservation management, one of the highest rates globally.
+
+[INTENT] communal_conservancy
+communal conservancy
+RESPONSE:
+Communal conservancies are community-managed wildlife areas where local people benefit from conservation and tourism.
+
+[INTENT] conservation_success
+community conservation success
+RESPONSE:
+Namibia is a global leader in community-based natural resource management.
+
+[INTENT] press_freedom
+press freedom
+media freedom
+RESPONSE:
+Namibia consistently ranks as having Africa’s freest and most independent press.
+
+[INTENT] newspapers
+major newspapers
+RESPONSE:
+Major newspapers include The Namibian, New Era, Republikein, and Allgemeine Zeitung.
+
+[INTENT] broadcaster
+state broadcaster
+RESPONSE:
+The Namibia Broadcasting Corporation (NBC) is the public broadcaster.
+
+[INTENT] internet_freedom
+internet freedom
+RESPONSE:
+Internet access is generally free with minimal government restrictions.
+
+[INTENT] lgbtq_rights
+lgbtq rights
+RESPONSE:
+Same-sex sexual activity is legal, but same-sex relationships are not legally recognized.
+
+[INTENT] womens_rights
+women rights
+gender equality
+RESPONSE:
+Women enjoy strong legal protections and hold over 40% of parliamentary seats.
+
+[INTENT] gender_violence
+gender based violence
+RESPONSE:
+Gender-based violence is a serious national concern with high reported cases.
+
+[INTENT] education_system
+education system
+RESPONSE:
+Education is free and compulsory for 10 years, with literacy around 91%.
+
+[INTENT] healthcare_system
+healthcare system
+RESPONSE:
+Namibia has a mixed public-private healthcare system. Public care is free but sometimes under-resourced.
+
+[INTENT] corruption
+corruption perception
+RESPONSE:
+Namibia is perceived as one of Africa’s least corrupt countries, though concerns remain.
+
+[INTENT] anticorruption
+anti corruption commission
+RESPONSE:
+The Anti-Corruption Commission (ACC) investigates and prevents corruption.
+
+[INTENT] fishrot
+fishrot scandal
+RESPONSE:
+The Fishrot scandal involved alleged bribery related to fishing quotas and former ministers.
+
+[INTENT] protests
+social protests
+RESPONSE:
+Youth-led protests such as #ShutItAllDown highlighted concerns over gender-based violence and governance.
+
+[INTENT] labor_unions
+labor unions
+RESPONSE:
+Trade unions are active, with the National Union of Namibian Workers (NUNW) being the largest.
+
+[INTENT] minimum_wage
+minimum wage
+RESPONSE:
+There is no national minimum wage, but sector-specific minimum wages exist.
+
+[INTENT] tax_system
+tax system
+RESPONSE:
+Namibia has progressive income tax, corporate tax at 32%, and VAT at 15%.
+
+[INTENT] national_budget
+government budget
+RESPONSE:
+The national budget ranges between NAD 70–80 billion annually.
+
+[INTENT] public_debt
+national debt
+RESPONSE:
+National debt is around 60–70% of GDP, considered moderate.
+
+[INTENT] central_bank
+central bank
+RESPONSE:
+The Bank of Namibia operates independently in setting monetary policy.
+
+[INTENT] sacu
+sacu
+RESPONSE:
+SACU (Southern African Customs Union) provides 20–30% of government revenue.
+
+[INTENT] state_owned_enterprises
+state owned enterprises
+RESPONSE:
+Many SOEs exist, some requiring government subsidies.
+
+[INTENT] neef
+neeef
+economic empowerment
+RESPONSE:
+The New Equitable Economic Empowerment Framework aimed to expand black economic participation but faced resistance.
+
+[INTENT] international_relations
+foreign relations
+RESPONSE:
+Namibia maintains strong relations with Germany, China, the US, EU, and regional partners.
+
+[INTENT] climate_policy
+climate change policy
+RESPONSE:
+Namibia has a National Climate Change Policy emphasizing adaptation and resilience.
+
+[INTENT] renewable_targets
+renewable energy targets
+RESPONSE:
+Namibia aims to generate 70% of its electricity from renewable energy by 2030.
+
+[INTENT] green_hydrogen_policy
+green hydrogen
+RESPONSE:
+Large-scale green hydrogen projects aim to use solar and wind energy for export.
+
+[INTENT] mining_status
+mining industry
+RESPONSE:
+Namibia is a major producer of uranium and diamonds, with ongoing oil exploration.
+
+[INTENT] informal_sector
+informal economy
+RESPONSE:
+The informal sector employs a large portion of the workforce, especially in cities.
+
+[INTENT] infrastructure_status
+infrastructure
+RESPONSE:
+Main roads and ports are good, while rural roads, rail, and sanitation need improvement.
+
+[INTENT] digital_government
+e government
+RESPONSE:
+E-government services are developing with limited online service availability.
+
+[INTENT] security_forces
+security forces
+RESPONSE:
+Defense spending is about 3% of GDP, with approximately 15,000 active military personnel.
+
+[INTENT] justice_system
+justice system
+RESPONSE:
+Namibia’s legal system is based on Roman-Dutch law with customary law elements.
+
+[INTENT] ombudsman
+ombudsman
+RESPONSE:
+The Ombudsman investigates complaints against government bodies and protects human rights.
+
+[INTENT] elections_management
+electoral commission
+RESPONSE:
+The Electoral Commission of Namibia (ECN) is responsible for organizing elections.
+
+[INTENT] political_participation
+youth participation
+women participation
+RESPONSE:
+Youth participation is high but leadership representation is low. Women are well represented through gender quotas.
+
+[INTENT] fallback
+RESPONSE:
+I can help explain Namibia’s politics, economy, media, development plans, and governance 🇳🇦  
+What would you like to explore next?
