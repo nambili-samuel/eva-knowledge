@@ -1,0 +1,104 @@
+# Eva Geises – Namibia Travel Tips Knowledge Base
+# Focus: Travel tips, photography, culture, landscapes, responsible travel
+
+[INTENT] photography_overview
+photography in namibia
+is namibia good for photography
+photo safari namibia
+RESPONSE:
+Namibia is a dream destination for photographers, offering dramatic landscapes, incredible light, diverse wildlife, and cultural richness. It’s often called Africa’s largest natural photography studio.
+
+[INTENT] best_photography_locations
+best places to photograph namibia
+photography locations namibia
+RESPONSE:
+Top photography locations include the Namib Desert dunes, Etosha National Park, Damaraland, the Skeleton Coast, the wetlands of the north-east, and the wild horses of Aus.
+
+[INTENT] landscape_photography
+landscapes of namibia
+what landscapes are in namibia
+RESPONSE:
+Namibia features endless horizons with landscapes ranging from red sand dunes and white salt pans to mountains, savannahs, forests, and riverine wetlands.
+
+[INTENT] wildlife_photography
+wildlife photography namibia
+photograph animals namibia
+RESPONSE:
+Namibia is home to the Big Five and many rare species. Etosha National Park, Damaraland, the coast, and the north-east offer excellent wildlife and bird photography opportunities.
+
+[INTENT] bird_photography
+bird photography namibia
+birding photography namibia
+RESPONSE:
+Namibia hosts hundreds of bird species. The north-east, wetlands, Etosha pans, and coastal lagoons are prime locations for bird photography.
+
+[INTENT] cultural_photography
+photograph people namibia
+cultural photography namibia
+RESPONSE:
+Namibia has 12 cultural groups, including the Himba and San. Visitors can photograph traditional villages, living museums, and township life with respect and consent.
+
+[INTENT] photography_ethics
+rules for photographing people
+photography etiquette namibia
+RESPONSE:
+Always ask before photographing people, respect privacy, and never photograph police or military personnel. Some communities may request payment before photos are taken.
+
+[INTENT] himba_photography
+photograph himba people
+himba culture photography
+RESPONSE:
+The Himba are among Namibia’s most photogenic people, known for red ochre body adornment and traditional dress. Always agree on permission and payment before taking photos.
+
+[INTENT] best_time_photography
+best time to take photos
+best light namibia photography
+RESPONSE:
+Early morning and late afternoon provide the best light in Namibia, with warm colors, long shadows, and dramatic skies. Late afternoon is especially popular for sunsets.
+
+[INTENT] camera_equipment
+what camera gear to bring
+photography gear namibia
+RESPONSE:
+A good zoom lens is essential for wildlife. Fixed lenses offer superior sharpness, especially for birds. Tripods or beanbags are useful for stability, particularly when photographing from vehicles.
+
+[INTENT] macro_photography
+macro photography namibia
+close up photography namibia
+RESPONSE:
+Macro photography in Namibia is very rewarding. Insects, reptiles, plants, textures, and even sand grains make fascinating close-up subjects.
+
+[INTENT] photographing_children
+photographing children namibia
+photos of kids namibia
+RESPONSE:
+Always ask a parent or guardian before photographing children. Respect cultural norms and privacy.
+
+[INTENT] travel_options_photography
+how to travel for photography
+best travel for photography namibia
+RESPONSE:
+Photography travelers can explore Namibia by self-drive, light aircraft fly-in safaris, or boat tours, allowing access to wildlife, coastlines, and remote landscapes.
+
+[INTENT] boat_photography
+boat tours photography namibia
+marine photography namibia
+RESPONSE:
+Boat tours from Walvis Bay or Lüderitz offer excellent marine photography opportunities, including seals, dolphins, pelicans, penguins, and seasonal whale sightings.
+
+[INTENT] responsible_travel
+responsible tourism namibia
+ethical travel namibia
+RESPONSE:
+Responsible travel in Namibia means respecting people, wildlife, and environments. Tourism supports local communities and conservation when done thoughtfully.
+
+[INTENT] inspiration
+namibia photography inspiration
+famous photographers namibia
+RESPONSE:
+Namibia has inspired many renowned photographers. Portfolios from local and international artists showcase the country’s landscapes, wildlife, and cultures.
+
+[INTENT] fallback
+RESPONSE:
+I can help with Namibia travel tips, photography advice, cultural experiences, and responsible tourism 📷🇳🇦  
+Ask me what you’d love to capture or explore!
