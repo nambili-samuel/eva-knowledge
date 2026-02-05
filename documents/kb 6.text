@@ -1,0 +1,184 @@
+# Eva Geises – Money, Shopping, Tech, Geography & General Knowledge KB
+
+[INTENT] payment_methods
+payment methods
+how do i pay
+money in namibia
+RESPONSE:
+Credit cards are accepted in cities, lodges, and petrol stations. Cash is needed in rural areas. South African Rand is also widely accepted.
+
+[INTENT] atm_availability
+are atms available
+atm namibia
+RESPONSE:
+ATMs are available in all towns. Carry cash for remote areas and notify your bank before traveling.
+
+[INTENT] credit_cards
+can i use credit cards
+visa mastercard namibia
+RESPONSE:
+Yes. Visa and Mastercard are the most widely accepted cards in cities, lodges, and major petrol stations.
+
+[INTENT] travelers_checks
+travellers checks
+travelers checks
+RESPONSE:
+Traveler’s checks are rarely accepted. Cards or cash are recommended instead.
+
+[INTENT] tipping
+should i tip
+tipping namibia
+RESPONSE:
+Yes. Tip about 10% in restaurants, NAD50–100 per day for guides, and NAD20–50 for lodge staff.
+
+[INTENT] currency_exchange
+exchange money
+where to exchange money
+RESPONSE:
+Exchange money at banks in cities or at the airport. USD and Euro can be exchanged. Keep your receipts.
+
+[INTENT] money_safety
+black market exchange
+illegal money exchange
+RESPONSE:
+Avoid black-market exchanges — they are illegal and risky, with potential counterfeit notes.
+
+[INTENT] cash_amounts
+how much cash
+cash to carry
+RESPONSE:
+Carry enough cash for 2–3 days when traveling in remote areas. Most urban places accept cards.
+
+[INTENT] bargaining
+are prices negotiable
+bargaining tips
+RESPONSE:
+Prices are fixed in shops but negotiable in craft markets. Be friendly, don’t haggle over small amounts, and bargain respectfully.
+
+[INTENT] shopping_duty_free
+duty free shops
+airport duty free
+RESPONSE:
+Duty-free shops are available at Windhoek and Walvis Bay airports for departing international passengers.
+
+[INTENT] souvenirs
+souvenirs namibia
+what to buy namibia
+RESPONSE:
+Popular souvenirs include Himba jewelry, Herero dolls, karakul products, certified diamond jewelry, and local art.
+
+[INTENT] responsible_shopping
+what not to buy
+illegal souvenirs
+RESPONSE:
+Avoid products made from endangered species, historical artifacts, or uncertified diamonds.
+
+[INTENT] export_rules
+export restrictions
+export diamonds
+RESPONSE:
+Certain items require permits. Diamonds must be bought from authorized dealers with a Kimberley Process certificate.
+
+[INTENT] medication_rules
+restricted medications
+prescription drugs
+RESPONSE:
+Carry medications in original containers with prescriptions. Some drugs require prescriptions in Namibia.
+
+[INTENT] drone_rules
+drones in namibia
+flying drones
+RESPONSE:
+Drones are strictly regulated. Permission from the Civil Aviation Authority is required and drones are often prohibited in parks.
+
+[INTENT] communication_options
+mobile phones
+internet in namibia
+RESPONSE:
+Local SIM cards are easy to buy, coverage is good in towns, limited in remote areas. Wi-Fi is available in many lodges and hotels.
+
+[INTENT] mobile_networks
+mobile networks
+sim card namibia
+RESPONSE:
+Main networks are MTC, TN Mobile, and Telecom Namibia. Tourist SIMs cost around NAD50–100 with airtime.
+
+[INTENT] data_costs
+mobile data cost
+internet data namibia
+RESPONSE:
+Data costs around NAD100–200 per 1GB, valid for about 30 days.
+
+[INTENT] postal_services
+postal service
+courier namibia
+RESPONSE:
+Postal services are reliable for postcards. Use courier services for important or valuable items.
+
+[INTENT] greetings_time
+good morning
+good afternoon
+good evening
+RESPONSE:
+Hello! 😊 I’m Eva. How can I help you explore Namibia today?
+
+[INTENT] greetings_casual
+hello
+hey
+RESPONSE:
+Hey there! 🇳🇦 Ready for a Namibian adventure?
+
+[INTENT] chat_request
+can we chat
+tell me more
+RESPONSE:
+Absolutely! Ask me anything about Namibia — wildlife, culture, travel tips, or hidden gems.
+
+[INTENT] geography_basic
+where is namibia
+capital of namibia
+RESPONSE:
+Namibia is in southwestern Africa. Its capital is Windhoek, located in the central highlands.
+
+[INTENT] language_info
+languages in namibia
+what language do they speak
+RESPONSE:
+English is the official language. Afrikaans, German, Oshiwambo, Herero, Nama/Damara, and other indigenous languages are widely spoken.
+
+[INTENT] namibia_facts
+what is namibia known for
+how big is namibia
+population of namibia
+RESPONSE:
+Namibia is known for the world’s oldest desert, Etosha National Park, red dunes, and political stability. It’s sparsely populated with about 2.5 million people.
+
+[INTENT] visa_currency
+visa for namibia
+currency in namibia
+RESPONSE:
+Many tourists receive a 90-day visa on arrival. The Namibian Dollar (N$) is the currency, and South African Rand is also accepted.
+
+[INTENT] top_attractions
+etosha national park
+sossusvlei
+namib desert
+RESPONSE:
+Highlights include Etosha National Park for wildlife, Sossusvlei’s towering red dunes, and the ancient Namib Desert along the Atlantic coast.
+
+[INTENT] cultural_groups
+himba people
+indigenous people namibia
+RESPONSE:
+The Himba are semi-nomadic pastoralists in northwest Namibia, known for red ochre body paint and traditional lifestyles.
+
+[INTENT] coastal_towns
+swakopmund
+coastal towns
+RESPONSE:
+Swakopmund is famous for German colonial architecture, adventure sports, and the unique meeting of desert and ocean.
+
+[INTENT] fallback
+RESPONSE:
+I can help with money matters, shopping, communication, geography, culture, and travel tips across Namibia 🇳🇦  
+What would you like to explore next?
