@@ -1,0 +1,214 @@
+# Eva Geises – Culture, Constitution, Education & Presidency Knowledge Base
+
+####################
+# CULTURE
+####################
+
+[INTENT] namibian_culture
+namibian culture
+culture of namibia
+RESPONSE:
+Namibian culture is a diverse, multicultural mosaic with strong traditional roots in rural areas, including pastoralist communities like the Himba and Herero, alongside modern urban life influenced by German and British history.
+
+####################
+# CONSTITUTION & RIGHTS
+####################
+
+[INTENT] right_property
+right to property
+RESPONSE:
+Article 16 of the Constitution protects the right to acquire, own, and dispose of property.
+
+[INTENT] slavery_prohibition
+slavery forced labor
+RESPONSE:
+Article 9 prohibits slavery, forced labor, and human trafficking.
+
+[INTENT] torture_prohibition
+torture prohibition
+RESPONSE:
+Article 8 prohibits torture and cruel, inhuman, or degrading treatment.
+
+[INTENT] labor_rights_constitution
+labor rights constitution
+RESPONSE:
+Article 21 protects the right to fair and reasonable conditions of employment.
+
+[INTENT] environmental_protection_constitution
+environmental protection constitution
+RESPONSE:
+Article 95 includes the state’s duty to maintain ecosystems and biodiversity.
+
+####################
+# GOVERNMENT STRUCTURE
+####################
+
+[INTENT] government_structure
+structure of government
+RESPONSE:
+The Constitution establishes three branches of government: executive, legislative, and judicial.
+
+[INTENT] president_election
+how president elected
+RESPONSE:
+Article 28 states the President is elected by direct, universal, and equal suffrage.
+
+[INTENT] president_powers
+president powers
+RESPONSE:
+The President is Head of State and Government, Commander-in-Chief, and appoints senior officials.
+
+[INTENT] presidential_term
+presidential term
+RESPONSE:
+The President serves a five-year term and may be re-elected once.
+
+[INTENT] presidential_succession
+presidential succession
+RESPONSE:
+Article 34 provides for succession by the Prime Minister if the President cannot serve.
+
+[INTENT] parliament_structure
+parliament structure
+RESPONSE:
+Namibia has a bicameral Parliament consisting of the National Assembly and National Council.
+
+[INTENT] national_assembly
+national assembly members
+RESPONSE:
+The National Assembly has 96 elected members and up to 8 appointed by the President.
+
+[INTENT] national_council
+national council members
+RESPONSE:
+The National Council consists of three representatives from each of Namibia’s 14 regions.
+
+[INTENT] judiciary_role
+judiciary role
+RESPONSE:
+Chapter 9 establishes an independent judiciary as the third branch of government.
+
+[INTENT] supreme_court
+supreme court
+RESPONSE:
+Article 79 establishes the Supreme Court as the highest court in Namibia.
+
+####################
+# LANGUAGES & CITIZENSHIP
+####################
+
+[INTENT] official_language
+official language
+RESPONSE:
+Article 3 establishes English as the official language of Namibia.
+
+[INTENT] indigenous_languages
+other languages
+RESPONSE:
+The Constitution allows other languages to be used for education and cultural purposes.
+
+[INTENT] citizenship
+namibian citizenship
+RESPONSE:
+Articles 4–5 define citizenship by birth, descent, or naturalization.
+
+[INTENT] dual_citizenship
+dual citizenship
+RESPONSE:
+Dual citizenship is generally not permitted for adults under Article 4.
+
+####################
+# TRADITIONAL & INTERNATIONAL LAW
+####################
+
+[INTENT] traditional_authorities
+traditional authorities
+RESPONSE:
+Article 102 recognizes traditional authorities and their role in customary law.
+
+[INTENT] international_law
+international law
+RESPONSE:
+Article 144 states international agreements become law only when enacted by Parliament.
+
+####################
+# EDUCATION SYSTEM
+####################
+
+[INTENT] education_system
+education system
+RESPONSE:
+Namibia’s education system includes pre-primary, primary, secondary, and tertiary levels.
+
+[INTENT] primary_education
+primary education
+RESPONSE:
+Primary education (Grades 1–7) is compulsory for children aged 6–16.
+
+[INTENT] secondary_education
+secondary education
+RESPONSE:
+Secondary education includes junior secondary (Grades 8–10) and senior secondary (Grades 11–12).
+
+[INTENT] medium_instruction
+medium of instruction
+RESPONSE:
+English is the medium of instruction from Grade 4 onward, with mother tongue used in Grades 1–3.
+
+[INTENT] literacy_rate
+literacy rate
+RESPONSE:
+Namibia’s literacy rate is approximately 91%, among the highest in Africa.
+
+[INTENT] vocational_education
+vocational education
+RESPONSE:
+Vocational Training Centres provide technical and trade skills to address unemployment.
+
+[INTENT] higher_education
+higher education
+RESPONSE:
+Public universities include UNAM and NUST, alongside private institutions.
+
+####################
+# PRESIDENTS
+####################
+
+[INTENT] first_president
+first president namibia
+RESPONSE:
+Dr. Sam Shafiishuna Nujoma was Namibia’s first President, serving from 1990 to 2005.
+
+[INTENT] second_president
+second president namibia
+RESPONSE:
+Dr. Hifikepunye Lucas Pohamba served as President from 2005 to 2015.
+
+[INTENT] third_president
+third president namibia
+RESPONSE:
+Dr. Hage Gottfried Geingob served as President from 2015 until 2024.
+
+[INTENT] current_president
+current president namibia
+RESPONSE:
+Nangolo Mbumba became President in February 2024 following President Geingob’s passing.
+
+[INTENT] president_role
+role of president
+RESPONSE:
+The President appoints ministers and judges, signs laws, commands the military, and represents Namibia internationally.
+
+[INTENT] presidential_ceremonies
+presidential ceremonies
+RESPONSE:
+Key ceremonies include Independence Day (21 March), Heroes’ Day (26 August), and the State of the Nation Address.
+
+####################
+# FALLBACK
+####################
+
+[INTENT] fallback
+RESPONSE:
+I can explain Namibia’s culture, Constitution, education system, leadership, and governance 🇳🇦  
+What would you like to explore next?
