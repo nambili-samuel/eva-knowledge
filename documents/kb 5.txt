@@ -1,0 +1,192 @@
+# Eva Geises – Practical Info, Culture, Costs & Bot Identity KB
+# Source: Curated Namibia datasets (travel, customs, health, economy, bot info)
+
+[INTENT] greeting_general
+hi
+hello
+hey
+good morning
+RESPONSE:
+Hello! 👋 Welcome to Namibian Time. How can I assist you today?
+
+[INTENT] bot_identity
+who are you
+what is your name
+where are you from
+RESPONSE:
+I’m Eva Geises 🇳🇦 — your Namibia expert assistant, created by ScienceTechniz to help you explore this incredible country.
+
+[INTENT] bot_capabilities
+what do you know
+can you learn
+are you free
+do you sleep
+can you make decisions
+RESPONSE:
+I specialize in Namibia’s tourism, culture, wildlife, economy, and travel advice. I don’t sleep, I’m free to use, and I’m always here to help!
+
+[INTENT] legal_emergencies
+legal assistance
+arrested in namibia
+legal trouble
+RESPONSE:
+If you’re arrested or face legal trouble, contact your embassy immediately for assistance.
+
+[INTENT] emergency_numbers
+emergency numbers
+police number
+ambulance number
+RESPONSE:
+Emergency numbers: Police 10111. Ambulance (Windhoek) 2032276. Coverage is limited in remote areas.
+
+[INTENT] health_safety
+health risks namibia
+diseases namibia
+water safety
+RESPONSE:
+Avoid stagnant water in the north due to bilharzia risk, avoid contact with animals due to rabies risk, and drink bottled water in remote areas.
+
+[INTENT] travel_insurance
+insurance claims
+lost luggage insurance
+RESPONSE:
+Keep all documentation and receipts. Travel insurance should cover luggage loss, delays, and medical emergencies.
+
+[INTENT] documents_lost
+lost passport
+stolen cards
+RESPONSE:
+Contact your embassy immediately for a lost passport and your bank right away if cards are stolen.
+
+[INTENT] namibian_food
+namibian food
+what do namibians eat
+RESPONSE:
+Namibian cuisine is meat-centric and includes kapana (grilled street meat), biltong, potjiekos stews, and mahangu porridge.
+
+[INTENT] transport_rules
+speed limits
+traffic police
+road conditions
+RESPONSE:
+Speed limits are 120 km/h on highways, 60 km/h in towns, and 80 km/h on gravel roads. Police are professional and speeding fines are common.
+
+[INTENT] police_stops
+stopped by police
+bribes
+RESPONSE:
+Be polite, show your license and rental papers, and never offer bribes — they are illegal.
+
+[INTENT] fuel_roads
+fuel stations
+road signs
+RESPONSE:
+Fuel stations are available in towns but can be far apart in remote areas. Road signs are good on main roads; GPS is essential.
+
+[INTENT] customs_rules
+customs rules
+prohibited items
+restricted items
+RESPONSE:
+Illegal drugs, weapons without permits, pornography, uncut diamonds, and counterfeit goods are prohibited. Drones, plants, and animal products may require permits.
+
+[INTENT] duty_free
+duty free allowances
+alcohol limits
+cigarette limits
+RESPONSE:
+Duty-free limits include 1L spirits, 2L wine, 400 cigarettes, and reasonable perfume for personal use.
+
+[INTENT] cash_declaration
+cash limits
+declare money
+RESPONSE:
+Declare amounts over NAD 50,000 or equivalent foreign currency at customs.
+
+[INTENT] airport_procedures
+airport facilities
+check in times
+security procedures
+RESPONSE:
+Arrive 3 hours early for international flights. Windhoek airport has ATMs, car rental, shops, and restaurants. Standard security screening applies.
+
+[INTENT] luggage_issues
+lost luggage
+damaged luggage
+RESPONSE:
+Report lost or damaged luggage immediately at the airline desk. Compensation is limited; insurance is recommended.
+
+[INTENT] shipping_items
+ship purchases home
+shipping costs
+RESPONSE:
+Shipping is possible via post or courier but can be expensive. Insure valuable items and keep receipts.
+
+[INTENT] investment_overview
+invest in namibia
+business opportunities
+RESPONSE:
+Foreigners can invest in Namibia, especially in tourism and renewable energy, with government approval in certain sectors.
+
+[INTENT] banking_money
+banking options
+open bank account
+money transfers
+RESPONSE:
+Local and South African banks operate in Namibia. Foreigners can open accounts with proper documents. SWIFT transfers and Western Union are available.
+
+[INTENT] taxes
+tax rates
+vat namibia
+RESPONSE:
+Income tax is progressive up to 37%, corporate tax 32%, and VAT 15%. VAT refunds may apply to some exports.
+
+[INTENT] culture_etiquette
+local customs
+greeting customs
+photography customs
+RESPONSE:
+Greetings are important. Handshakes with eye contact are common. Always ask permission before photographing people.
+
+[INTENT] ethnic_groups
+kavango people
+vakavango
+RESPONSE:
+The Kavango people live along the Kavango River and include subgroups such as Kwangali, Mbunza, Shambyu, Gciriku, and Mbukushu.
+
+[INTENT] seasons_weather
+seasons in namibia
+best time to visit
+RESPONSE:
+Dry season (May–Oct) is best for wildlife. Wet season (Nov–Apr) brings green landscapes and migratory birds.
+
+[INTENT] best_times
+best wildlife viewing
+best photography
+best birding
+RESPONSE:
+Wildlife is best in the dry season, photography year-round at sunrise and sunset, and birding from November to April.
+
+[INTENT] costs_overview
+travel costs
+is namibia expensive
+RESPONSE:
+Namibia offers good value. Budget trips cost around NAD1500–2500 per day, mid-range NAD2500–5000, luxury NAD5000+.
+
+[INTENT] fun_facts
+fun fact
+weird fact
+surprising fact
+RESPONSE:
+Did you know Namibia has more cheetahs than any other country in the world?
+
+[INTENT] namibia_summary
+summarize namibia
+why visit namibia
+RESPONSE:
+Namibia is a land of dramatic contrasts — ancient deserts, abundant wildlife, rich cultures, and peaceful, uncrowded travel experiences.
+
+[INTENT] fallback
+RESPONSE:
+I can help with travel advice, culture, costs, safety, and amazing experiences across Namibia 🇳🇦  
+What would you like to know?
