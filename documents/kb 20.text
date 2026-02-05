@@ -1,0 +1,229 @@
+################################################
+# SYSTEM EXIT & FAREWELLS
+################################################
+
+[INTENT] system_exit
+goodbye
+bye
+see you
+talk to you later
+catch you later
+have a good day
+take care
+until next time
+i'm leaving now
+gotta go
+RESPONSE:
+Goodbye! 👋 Feel free to return anytime with questions about ScienceTechniz, AI, or healthcare research.
+
+################################################
+# CLARITY & CONFIRMATION
+################################################
+
+[INTENT] clarity_achieved
+clear now
+that makes sense
+got it
+RESPONSE:
+Perfect! 😊 Don’t hesitate to ask if you have other questions.
+
+################################################
+# HELP & CLARIFICATION REQUESTS
+################################################
+
+[INTENT] explanation_request
+can you explain that better
+what do you mean
+i don't get it
+can you simplify that
+too complex
+use simpler words
+break it down for me
+sorry i didn't follow
+could you repeat that
+one more time please
+say that again
+i'm lost
+RESPONSE:
+No problem at all! 😊 Let me explain it more clearly. Which part would you like me to focus on?
+
+################################################
+# GUIDANCE & NAVIGATION
+################################################
+
+[INTENT] starting_point
+where do i start
+RESPONSE:
+Great question! We can start with Dr. Nambili Samuel’s background, ScienceTechniz research topics, article submissions, or AI in healthcare. What interests you most?
+
+[INTENT] question_suggestions
+what should i ask
+give me some examples
+RESPONSE:
+You can ask about Dr. Nambili Samuel’s expertise, ScienceTechniz research areas, AI in healthcare, article submissions, or current technology trends.
+
+################################################
+# TOPICS OVERVIEW
+################################################
+
+[INTENT] topic_overview
+what are the main topics
+RESPONSE:
+Our main topics include Artificial Intelligence & Machine Learning, Healthcare Technology, Bioinformatics, Data Science, Cybersecurity, and Quantum Computing.
+
+################################################
+# SUMMARIES & HIGHLIGHTS
+################################################
+
+[INTENT] summary_request
+can you summarize
+RESPONSE:
+Sure! What would you like summarized — Dr. Samuel’s background, ScienceTechniz’s mission, or a specific research topic?
+
+[INTENT] highlights
+give me the highlights
+RESPONSE:
+ScienceTechniz was founded by Dr. Nambili Samuel and focuses on AI-driven healthcare innovation, interdisciplinary research, and global collaboration.
+
+################################################
+# CONTENT DISCOVERY
+################################################
+
+[INTENT] article_catalog
+what articles do you have
+RESPONSE:
+We publish articles in AI & Machine Learning, Healthcare Technology, Bioinformatics, Cybersecurity, Data Science, and emerging technologies. Which area interests you?
+
+[INTENT] trending_topics
+trending topics
+RESPONSE:
+Current trending topics include AI in medical diagnosis, Quantum Computing advances, Cybersecurity in healthcare, and Bioinformatics applications.
+
+################################################
+# TECHNOLOGY & AI TOPICS
+################################################
+
+[INTENT] quantum_intro
+tell me about quantum computing
+RESPONSE:
+Quantum computing uses quantum mechanics to process information in powerful new ways, with applications in healthcare, drug discovery, and optimization.
+
+[INTENT] quantum_applications
+what's quantum computing used for
+RESPONSE:
+Quantum computing is used in drug discovery, cryptography, healthcare optimization, machine learning acceleration, and complex simulations.
+
+[INTENT] ai_healthcare
+how does ai help doctors
+ai diagnosis systems
+RESPONSE:
+AI helps doctors by analyzing medical images, identifying patterns in patient data, supporting diagnosis, predicting disease progression, and automating routine tasks.
+
+[INTENT] ai_drug_discovery
+drug discovery with ai
+RESPONSE:
+AI accelerates drug discovery by analyzing molecular data, predicting interactions, optimizing trials, and reducing development time.
+
+################################################
+# HEALTH & BIOTECH
+################################################
+
+[INTENT] personalized_medicine
+personalized medicine
+precision medicine
+RESPONSE:
+Personalized medicine tailors treatment based on genetics, lifestyle, and medical history, improving outcomes and reducing side effects.
+
+[INTENT] telemedicine
+telemedicine technology
+RESPONSE:
+Telemedicine enables remote healthcare through video consultations, remote monitoring, digital diagnostics, and mobile health platforms.
+
+[INTENT] wearable_health
+wearable health devices
+RESPONSE:
+Wearable devices track vital signs, activity, and sleep in real time, transforming preventive and chronic care.
+
+[INTENT] bioinformatics_intro
+what is bioinformatics
+genomics and ai
+protein folding
+RESPONSE:
+Bioinformatics combines biology and computing to analyze genetic data, predict protein structures, and support drug discovery using AI.
+
+################################################
+# FOUNDER – DR. NAMBILI SAMUEL
+################################################
+
+[INTENT] founder_background
+dr nambili's background
+who is dr nambili samuel
+RESPONSE:
+Dr. Nambili Samuel is a Namibian medical physician, AI researcher, programmer, and founder of ScienceTechniz with 19 years of military service.
+
+[INTENT] founder_uniqueness
+what makes dr samuel unique
+RESPONSE:
+He uniquely combines medical expertise, military experience, AI & programming skills, cybersecurity knowledge, and leadership in healthcare innovation.
+
+[INTENT] founder_education
+dr samuel's education
+RESPONSE:
+Dr. Nambili Samuel studied Medicine, Bioengineering, Computer Programming, and holds certifications from IBM, Harvard, Johns Hopkins, Stanford, WHO, and more.
+
+[INTENT] founder_military
+dr samuel's military service
+RESPONSE:
+He served 19 years in the Namibian Defence Force as a Combat Medic, Military Police officer, and Defence Intelligence Officer.
+
+[INTENT] founder_expertise
+dr samuel's expertise
+RESPONSE:
+His expertise spans clinical medicine, AI & machine learning, data science, bioinformatics, cybersecurity, and medical technology innovation.
+
+[INTENT] founder_programming
+dr samuel's programming skills
+RESPONSE:
+Dr. Nambili Samuel is skilled in Python, R, JavaScript, C++, HTML, and SQL for AI, data science, and systems development.
+
+[INTENT] founder_certifications
+dr samuel's certifications
+RESPONSE:
+He holds medical and technical certifications from WHO, NIH, Harvard, Johns Hopkins, Stanford, IBM, Oracle, Cisco, and others.
+
+[INTENT] ethical_hacker
+is dr samuel a hacker
+RESPONSE:
+Yes — he is a Cisco-verified ethical hacker who applies cybersecurity expertise to protect healthcare systems.
+
+[INTENT] founder_current_work
+dr samuel's current work
+RESPONSE:
+Dr. Nambili Samuel leads ScienceTechniz, conducts AI-healthcare research, publishes globally, and collaborates with international institutions.
+
+[INTENT] founder_location
+where is dr samuel now
+RESPONSE:
+He is currently based in Turkey while leading ScienceTechniz’s global research initiatives.
+
+[INTENT] founder_heritage
+dr samuel's heritage
+RESPONSE:
+Dr. Nambili Samuel comes from the Ongandjera royal lineage in Namibia.
+
+################################################
+# ORGANIZATION
+################################################
+
+[INTENT] mission_statement
+sciencetechniz mission
+RESPONSE:
+ScienceTechniz advances scientific knowledge by publishing interdisciplinary research and bridging healthcare with advanced technology.
+
+################################################
+# FALLBACK
+################################################
+
+[INTENT] fallback
+RESPONSE:
+I can help with ScienceTechniz research, AI in healthcare, technology trends, or Dr. Nambili Samuel’s background. Try rephrasing your question 🙂
