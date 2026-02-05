@@ -1,0 +1,232 @@
+# Eva Geises – Health, Food, Society, Politics & Governance KB
+
+[INTENT] embassy_assistance
+embassy assistance
+consular help
+RESPONSE:
+Most countries have embassies in Windhoek or provide consular services through South Africa.
+
+[INTENT] travel_insurance
+travel insurance
+insurance requirement
+RESPONSE:
+Travel insurance is highly recommended, especially for medical evacuation and trip cancellation.
+
+[INTENT] medical_evacuation
+medical evacuation
+air ambulance
+RESPONSE:
+Medical evacuation is available through private companies and is essential for remote travel.
+
+[INTENT] blood_groups
+blood group distribution
+RESPONSE:
+Blood group distribution is similar to South Africa, with type O most common and AB least common.
+
+[INTENT] rh_factor
+rh factor
+RESPONSE:
+Most Namibians are Rh positive, similar to global distributions.
+
+[INTENT] genetic_diversity
+genetic diversity
+khoisan genetics
+RESPONSE:
+Namibia has high genetic diversity, with Khoisan groups having some of the world’s oldest genetic lineages.
+
+[INTENT] obesity
+obesity rate
+RESPONSE:
+Obesity is a growing concern, especially in urban areas and among women.
+
+[INTENT] diabetes
+diabetes prevalence
+RESPONSE:
+Diabetes affects about 6% of adults and is increasing with lifestyle changes.
+
+[INTENT] hypertension
+high blood pressure
+RESPONSE:
+Hypertension is common, especially in cities, linked to diet and stress.
+
+[INTENT] cancer
+cancer incidence
+RESPONSE:
+Cancer rates are increasing, with breast and cervical cancer being major concerns.
+
+[INTENT] tuberculosis
+tb rate
+RESPONSE:
+Namibia has a high tuberculosis burden, including drug-resistant strains.
+
+[INTENT] hiv
+hiv prevalence
+RESPONSE:
+About 12% of adults live with HIV, down from peak levels but still a major challenge.
+
+[INTENT] arv_coverage
+antiretroviral treatment
+RESPONSE:
+Around 90% of diagnosed people receive ARVs, considered a national success story.
+
+[INTENT] maternal_health
+maternal mortality
+RESPONSE:
+Maternal mortality has improved but remains high at about 200 per 100,000 births.
+
+[INTENT] infant_mortality
+infant mortality
+RESPONSE:
+Infant mortality is about 30 per 1,000 live births and continues to decline.
+
+[INTENT] vaccination
+vaccination coverage
+RESPONSE:
+Vaccination coverage is high through the national immunization program.
+
+[INTENT] healthcare_staff
+doctor patient ratio
+nurse ratio
+RESPONSE:
+Doctor-patient ratio is about 1:1000 and nurse-patient ratio about 1:500, with uneven distribution.
+
+[INTENT] medical_training
+medical education
+RESPONSE:
+Doctors are trained at UNAM Medical School, with some studying abroad.
+
+[INTENT] traditional_healers
+traditional healers
+RESPONSE:
+Traditional healers are formally recognized and sometimes collaborate with modern healthcare.
+
+[INTENT] wellbeing
+life satisfaction
+happiness
+RESPONSE:
+Life satisfaction is moderate, supported by strong family and community ties.
+
+[INTENT] suicide
+suicide rate
+mental health
+RESPONSE:
+Suicide rates are relatively high, especially among men, with growing mental health awareness.
+
+[INTENT] alcohol_use
+alcohol consumption
+RESPONSE:
+Alcohol consumption is high, contributing to health and social issues.
+
+[INTENT] diet_overview
+diet
+food habits
+RESPONSE:
+Traditional maize-based diets are shifting toward processed foods in urban areas.
+
+[INTENT] staple_food
+staple food
+RESPONSE:
+The staple food is maize meal (mahangu or oshifima), often eaten with meat or vegetables.
+
+[INTENT] protein_sources
+protein sources
+RESPONSE:
+Protein comes from beef, goat, chicken, fish, and game meat.
+
+[INTENT] street_food
+street food
+kapana
+RESPONSE:
+Kapana (barbecued meat) is popular, affordable street food.
+
+[INTENT] traditional_drinks
+traditional beer
+RESPONSE:
+Traditional drinks include oshikundu (millet beer) and tombo in the north.
+
+[INTENT] commercial_drinks
+beer brands
+RESPONSE:
+Windhoek Lager and other Namibia Breweries products are widely consumed.
+
+[INTENT] holidays
+public holidays
+RESPONSE:
+Major holidays include Independence Day (Mar 21), Heroes Day (Aug 26), Cassinga Day (May 4), Africa Day (May 25), Workers Day (May 1), Christmas, and Easter.
+
+[INTENT] political_system
+political system
+RESPONSE:
+Namibia is a unitary semi-presidential democratic republic with a multiparty system.
+
+[INTENT] head_of_state
+head of state
+RESPONSE:
+The President is both head of state and head of government.
+
+[INTENT] current_president
+current president
+RESPONSE:
+Nangolo Mbumba became President in February 2024 following the passing of Hage Geingob.
+
+[INTENT] parliament
+parliament structure
+RESPONSE:
+Namibia has a bicameral parliament: the National Assembly and National Council.
+
+[INTENT] swapo
+swapo party
+RESPONSE:
+SWAPO is the ruling party since independence, founded in 1960 as a liberation movement.
+
+[INTENT] elections
+elections
+voting
+RESPONSE:
+Elections are held every five years. Voting age is 18 and turnout is typically 60–70%.
+
+[INTENT] judiciary
+judiciary
+courts
+RESPONSE:
+Namibia has an independent judiciary, with the Supreme Court as the highest court.
+
+[INTENT] constitution
+constitution
+RESPONSE:
+The Constitution of Namibia was adopted in 1990 and strongly protects human rights.
+
+[INTENT] regions
+regions of namibia
+RESPONSE:
+Namibia has 14 administrative regions, with Windhoek located in the Khomas Region.
+
+[INTENT] traditional_leaders
+traditional authorities
+RESPONSE:
+Traditional leaders are constitutionally recognized with advisory roles.
+
+[INTENT] foreign_policy
+foreign policy
+RESPONSE:
+Namibia follows non-alignment and is active in UN, AU, SADC, and Commonwealth.
+
+[INTENT] land_reform
+land reform
+RESPONSE:
+Land reform seeks to redistribute farmland to previously disadvantaged Namibians.
+
+[INTENT] economic_challenges
+economic challenges
+RESPONSE:
+Key challenges include unemployment, inequality, drought, and reliance on commodity exports.
+
+[INTENT] vision_2030
+vision 2030
+RESPONSE:
+Vision 2030 is Namibia’s long-term plan to become a developed nation.
+
+[INTENT] fallback
+RESPONSE:
+I can help with travel, health, culture, food, politics, and daily life in Namibia 🇳🇦  
+What would you like to explore next?
