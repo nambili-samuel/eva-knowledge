@@ -1,0 +1,213 @@
+# Eva Geises – Wildlife, Society, Economy, History & Politics KB
+
+[INTENT] wildlife_overview
+what wildlife can i see
+animals in namibia
+RESPONSE:
+Namibia is home to desert-adapted elephants, lions, black rhinos, cheetahs (the largest population worldwide), zebras, giraffes, antelope, and rich birdlife.
+
+[INTENT] big_five
+big five namibia
+can i see big five
+RESPONSE:
+Yes! Lions, leopards, elephants, rhinos, and buffalo can be seen in Etosha and other parks, although buffalo are less common.
+
+[INTENT] cheetahs
+cheetahs in namibia
+RESPONSE:
+Namibia has the world’s largest population of free-ranging cheetahs, with strong conservation programs protecting them.
+
+[INTENT] desert_elephants
+desert adapted elephants
+RESPONSE:
+Desert-adapted elephants have longer legs and larger feet for sand and can survive days without water — a rare adaptation found in Namibia.
+
+[INTENT] safety
+is namibia safe
+safety for tourists
+RESPONSE:
+Namibia is generally very safe for tourists, with low crime in tourist areas. Normal travel precautions are advised.
+
+[INTENT] weather_overview
+weather in namibia
+climate namibia
+RESPONSE:
+Namibia has a dry climate with over 300 sunny days per year. Days are warm, while nights can be cool, especially in desert areas.
+
+[INTENT] packing_general
+what should i pack
+packing for namibia
+RESPONSE:
+Pack light clothing for daytime, warm layers for evenings, sun protection, sturdy shoes, binoculars, and a camera.
+
+[INTENT] self_drive_general
+self drive namibia
+driving in namibia
+RESPONSE:
+Yes, self-driving is very popular. Roads are mostly gravel and well maintained. A 4x4 is recommended for remote areas and parks.
+
+[INTENT] landmarks_central
+waterberg plateau
+RESPONSE:
+The Waterberg Plateau is a massive sandstone formation and nature reserve protecting rare and endangered species.
+
+[INTENT] cultural_sites
+twyfelfontein
+RESPONSE:
+Twyfelfontein is a UNESCO World Heritage Site with over 2,500 ancient rock engravings dating back up to 6,000 years.
+
+[INTENT] coastal_regions
+skeleton coast
+RESPONSE:
+The Skeleton Coast is a remote, foggy coastline known for shipwrecks, whale bones, and desert-adapted lions and elephants.
+
+[INTENT] economy_overview
+economy of namibia
+RESPONSE:
+Namibia’s economy is based on mining, agriculture, tourism, fishing, and manufacturing, and is classified as upper-middle income.
+
+[INTENT] mining_sector
+mining industry
+RESPONSE:
+Mining contributes about 12% to GDP, with diamonds, uranium, and new lithium and oil discoveries playing major roles.
+
+[INTENT] agriculture_sector
+agriculture in namibia
+RESPONSE:
+Agriculture focuses on livestock farming, millet and maize, with growing grape and date farming along major rivers.
+
+[INTENT] fishing_sector
+fishing industry
+RESPONSE:
+Fishing is important along the Atlantic coast, especially hake and sardines, with strict management to protect stocks.
+
+[INTENT] exports
+main exports
+RESPONSE:
+Namibia exports diamonds, uranium, gold, fish products, beef, grapes, and minerals mainly to South Africa and Europe.
+
+[INTENT] politics_overview
+political system
+government of namibia
+RESPONSE:
+Namibia is a multiparty democracy with a president as head of state and a bicameral parliament.
+
+[INTENT] president
+president of namibia
+RESPONSE:
+Namibia’s president is Netumbo Nandi-Ndaitwah, the country’s fifth and first female president.
+
+[INTENT] political_stability
+is namibia stable
+RESPONSE:
+Namibia is one of Africa’s most politically stable democracies with peaceful transitions of power since independence.
+
+[INTENT] political_parties
+political parties
+RESPONSE:
+Major parties include SWAPO (ruling), PDM, LPM, and several smaller parties.
+
+[INTENT] political_issues
+current political issues
+RESPONSE:
+Key issues include land reform, inequality, youth unemployment, corruption, and drought management.
+
+[INTENT] land_reform
+land reform namibia
+RESPONSE:
+Land reform aims to redistribute agricultural land to previously disadvantaged Namibians through a gradual legal process.
+
+[INTENT] judiciary
+judiciary system
+RESPONSE:
+Namibia has an independent judiciary based on Roman-Dutch law, with a Supreme Court and High Court.
+
+[INTENT] foreign_policy
+foreign policy
+RESPONSE:
+Namibia follows non-alignment and is active in SADC, AU, and UN, with strong ties to South Africa, Germany, and China.
+
+[INTENT] independence
+independence of namibia
+RESPONSE:
+Namibia gained independence on March 21, 1990 after a long liberation struggle led by SWAPO.
+
+[INTENT] liberation_history
+liberation struggle
+SWAPO history
+RESPONSE:
+SWAPO led the armed struggle from 1966 to 1989 against South African rule, leading to UN-supervised independence.
+
+[INTENT] colonial_history
+colonial history
+german colonization
+RESPONSE:
+Germany colonized Namibia from 1884–1915, followed by South African rule until independence in 1990.
+
+[INTENT] genocide_history
+herero genocide
+nama genocide
+RESPONSE:
+Between 1904–1908, German forces killed tens of thousands of Herero and Nama people — recognized as the first genocide of the 20th century.
+
+[INTENT] german_apology
+germany apology
+RESPONSE:
+Germany acknowledged the genocide and agreed to fund €1.1 billion in development projects over 30 years.
+
+[INTENT] historical_figures
+sam nujoma
+hage geingob
+RESPONSE:
+Sam Nujoma was Namibia’s first president and founding father. Hage Geingob served as president from 2015–2024.
+
+[INTENT] regions
+caprivi strip
+kunene region
+RESPONSE:
+The Caprivi Strip (Zambezi Region) connects Namibia to major rivers, while Kunene is known for Himba culture and Epupa Falls.
+
+[INTENT] rivers_dams
+orange river
+okavango river
+hardap dam
+RESPONSE:
+Major rivers include the Orange and Okavango. Hardap and Naute Dams support irrigation and agriculture.
+
+[INTENT] cities
+windhoek
+walvis bay
+luderitz
+tsumeb
+RESPONSE:
+Windhoek is the capital, Walvis Bay the main port, Lüderitz a historic coastal town, and Tsumeb a mining gateway to Etosha.
+
+[INTENT] education
+education system
+RESPONSE:
+Namibia offers free primary education with literacy around 91%, based on the British system.
+
+[INTENT] healthcare
+healthcare in namibia
+RESPONSE:
+Urban areas have good public and private healthcare, while rural services are limited.
+
+[INTENT] human_rights
+human rights
+RESPONSE:
+Namibia has strong constitutional protections, though challenges remain around inequality and gender-based violence.
+
+[INTENT] women_status
+women in namibia
+RESPONSE:
+Women are well represented in parliament and government, but gender-based violence remains a concern.
+
+[INTENT] media
+media in namibia
+RESPONSE:
+Namibia has one of Africa’s freest media environments with newspapers, radio, and growing online platforms.
+
+[INTENT] fallback
+RESPONSE:
+I can help with wildlife, history, politics, society, and travel across Namibia 🇳🇦  
+What would you like to explore next?
