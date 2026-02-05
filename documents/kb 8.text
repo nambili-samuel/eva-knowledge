@@ -1,0 +1,280 @@
+# Eva Geises – Society, Infrastructure, Environment, Economy & Daily Life KB
+
+[INTENT] higher_education
+higher education
+universities in namibia
+RESPONSE:
+Namibia has several universities including the University of Namibia (UNAM), Namibia University of Science and Technology (NUST), and IUM.
+
+[INTENT] housing
+housing in namibia
+where do people live
+RESPONSE:
+Urban areas have modern housing, while rural areas often have traditional huts. Informal settlements exist around major cities.
+
+[INTENT] transportation_public
+public transport
+transportation in namibia
+RESPONSE:
+Cities use taxis and buses, while intercity travel relies on buses and private vehicles. Self-driving is common.
+
+[INTENT] cost_of_living
+cost of living
+is namibia expensive
+RESPONSE:
+Windhoek is relatively expensive, especially for imported goods. Rural areas generally have lower living costs.
+
+[INTENT] electricity
+electricity supply
+power in namibia
+RESPONSE:
+Urban areas have good electricity coverage. Namibia imports power but is expanding renewable energy production.
+
+[INTENT] water_supply
+water situation
+water scarcity
+RESPONSE:
+Water scarcity is a major challenge. Namibia is a global leader in water reclamation and recycling technology.
+
+[INTENT] internet_access
+internet access
+mobile data
+RESPONSE:
+Cities have good internet and 4G coverage. Rural areas may have limited connectivity.
+
+[INTENT] healthcare_access
+healthcare access
+medical care
+RESPONSE:
+Public healthcare is free but limited. Private healthcare in cities is of good quality.
+
+[INTENT] diseases
+common diseases
+health risks
+RESPONSE:
+Health concerns include HIV/AIDS, tuberculosis, malaria in the north, and diarrheal diseases, though HIV rates are declining.
+
+[INTENT] climate_overview
+climate
+weather patterns
+RESPONSE:
+Namibia is arid to semi-arid. The coast is cool and foggy, while the interior is hot with cold nights.
+
+[INTENT] vegetation
+vegetation
+plants in namibia
+RESPONSE:
+Mostly desert and semi-desert vegetation, including welwitschia. The northeast has savanna and woodlands.
+
+[INTENT] endemic_animals
+unique animals
+endemic wildlife
+RESPONSE:
+Unique species include desert-adapted lions and elephants, Hartmann’s mountain zebra, and endemic birds and reptiles.
+
+[INTENT] birdlife
+birdlife
+birds in namibia
+RESPONSE:
+Namibia has over 700 bird species, including flamingos, migratory birds, and endemics like the Dune Lark.
+
+[INTENT] marine_life
+marine life
+ocean animals
+RESPONSE:
+The Benguela Current supports seals, dolphins, whales, and rich fish stocks.
+
+[INTENT] national_parks
+national parks
+parks in namibia
+RESPONSE:
+Major parks include Etosha, Namib-Naukluft, Skeleton Coast, Fish River Canyon, and Waterberg Plateau.
+
+[INTENT] namib_naukluft
+namib naukluft park
+sossusvlei
+RESPONSE:
+Namib-Naukluft is Africa’s largest national park, combining desert and mountains, and home to Sossusvlei.
+
+[INTENT] accommodation_gondwana
+gondwana collection
+RESPONSE:
+Gondwana Collection operates private parks and lodges offering conservation-focused tourism experiences.
+
+[INTENT] community_tourism
+community tourism
+responsible tourism
+RESPONSE:
+Community-based tourism is run by local communities, providing income while protecting culture and nature.
+
+[INTENT] safari_experience
+safari
+game viewing
+RESPONSE:
+Safaris range from self-drive adventures to luxury guided tours with spectacular landscapes and wildlife.
+
+[INTENT] adventure_activities
+adventure activities
+things to do
+RESPONSE:
+Activities include sandboarding, quad biking, skydiving, ballooning, hiking, fishing, and 4x4 adventures.
+
+[INTENT] cultural_experiences
+cultural experiences
+local culture
+RESPONSE:
+Visitors can experience Himba villages, festivals, craft markets, and historical sites.
+
+[INTENT] food_culture
+braai
+local food
+RESPONSE:
+A braai is a social barbecue tradition. Popular foods include grilled meats and local dishes.
+
+[INTENT] drinks
+local drinks
+beer
+RESPONSE:
+Popular drinks include Windhoek Lager, Orange River wines, and traditional brews like oshikundu.
+
+[INTENT] shopping
+shopping
+souvenirs
+RESPONSE:
+Popular items include crafts, Himba jewelry, karakul wool, certified diamonds, and local art.
+
+[INTENT] festivals
+festivals
+public celebrations
+RESPONSE:
+Major festivals include Windhoek Karneval, Herero Day, Independence Day, and music festivals.
+
+[INTENT] nightlife
+nightlife
+bars and clubs
+RESPONSE:
+Windhoek and Swakopmund offer nightlife, while smaller towns are quieter.
+
+[INTENT] family_life
+family life
+household structure
+RESPONSE:
+Extended families are important, often including grandparents and relatives.
+
+[INTENT] marriage_traditions
+marriage customs
+lobola
+RESPONSE:
+Marriage traditions vary by ethnic group and often include lobola negotiations.
+
+[INTENT] youth_issues
+youth challenges
+young people
+RESPONSE:
+High unemployment and limited rural opportunities are major challenges for youth.
+
+[INTENT] environmental_protection
+environmental protection
+conservation
+RESPONSE:
+Namibia has strong environmental laws and successful community conservation programs.
+
+[INTENT] environmental_challenges
+environmental challenges
+climate issues
+RESPONSE:
+Challenges include drought, desertification, water scarcity, and wildlife poaching.
+
+[INTENT] renewable_energy
+renewable energy
+solar power
+RESPONSE:
+Namibia has excellent solar and wind potential and is investing heavily in renewables.
+
+[INTENT] mining_diamonds
+diamond mining
+marine diamonds
+RESPONSE:
+Namibia mines diamonds on land and offshore using advanced technology, with processing in Windhoek.
+
+[INTENT] uranium_mining
+uranium mining
+rossing husab
+RESPONSE:
+Namibia is a major uranium producer with mines like Rössing and Husab.
+
+[INTENT] oil_gas
+oil discovery
+offshore oil
+RESPONSE:
+Recent offshore oil discoveries could significantly impact Namibia’s economy if developed.
+
+[INTENT] green_hydrogen
+green hydrogen
+hydrogen energy
+RESPONSE:
+Namibia aims to become a major green hydrogen exporter using renewable energy.
+
+[INTENT] tourism_economy
+tourism contribution
+tourism economy
+RESPONSE:
+Tourism contributes about 15% of GDP and is a major employer, especially in rural areas.
+
+[INTENT] currency
+exchange rate
+namibian dollar
+RESPONSE:
+The Namibian Dollar is pegged 1:1 to the South African Rand, which is widely accepted.
+
+[INTENT] safety_police
+police force
+tourist police
+RESPONSE:
+The Namibian Police are generally professional, with tourist police units in major destinations.
+
+[INTENT] emergency_services
+emergency services
+emergency numbers
+RESPONSE:
+Emergency services are good in cities but limited in rural areas. Police: 10111.
+
+[INTENT] etiquette_photography
+photography etiquette
+taking photos
+RESPONSE:
+Always ask permission before photographing people, especially in traditional communities.
+
+[INTENT] tipping
+tipping customs
+RESPONSE:
+Tipping is expected: about 10% in restaurants and tips for guides and lodge staff.
+
+[INTENT] time_zone
+time zone
+local time
+RESPONSE:
+Namibia uses Central Africa Time (UTC+2) with no daylight saving.
+
+[INTENT] plugs
+power plugs
+electricity plugs
+RESPONSE:
+Namibia uses Type D and Type M plugs, 220–240V electricity.
+
+[INTENT] laws_general
+local laws
+legal age
+RESPONSE:
+The legal drinking age is 18. Smoking is banned indoors. Drugs are illegal.
+
+[INTENT] crime_overview
+crime rate
+safety concerns
+RESPONSE:
+Crime affects locals more than tourists. Petty crime exists, but violent crime against tourists is rare.
+
+[INTENT] fallback
+RESPONSE:
+I can help with travel, culture, society, safety, environment, and daily life in Namibia 🇳🇦  
+What would you like to know next?
