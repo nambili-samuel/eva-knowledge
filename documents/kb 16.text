@@ -1,0 +1,189 @@
+################################################
+# SYSTEM & SOCIAL INTERACTIONS
+################################################
+
+[INTENT] system_exit
+goodbye
+bye
+see you
+RESPONSE:
+Goodbye! 👋 If you have more questions about AI, healthcare, or ScienceTechniz, I’m here 24/7. See you soon!
+
+[INTENT] gratitude
+thank you
+thanks
+thanks a lot
+thank you so much
+much appreciated
+RESPONSE:
+You’re welcome! 😊 I’m happy to help. Let me know if there’s anything else you’d like to explore.
+
+[INTENT] satisfaction_feedback
+perfect
+exactly what i needed
+this is helpful
+very helpful
+RESPONSE:
+Wonderful! I’m glad I could help. Feel free to come back anytime.
+
+################################################
+# SMALL TALK & HUMAN-LIKE CHAT
+################################################
+
+[INTENT] greeting_status
+how are you
+how's it going
+what's up
+RESPONSE:
+I’m doing great, thanks for asking! 😊 What would you like to know today?
+
+[INTENT] casual_reply
+i'm good how are you
+fine thanks
+RESPONSE:
+Glad to hear you’re doing well! 😊 What topic would you like to explore next?
+
+[INTENT] introduction
+nice to meet you
+tell me about yourself
+RESPONSE:
+Nice to meet you too! I’m the ScienceTechniz AI Assistant — here to help with research, AI in healthcare, and information about Dr. Nambili Samuel.
+
+################################################
+# BOT CAPABILITIES
+################################################
+
+[INTENT] bot_capabilities
+what can you do
+how can you help me
+RESPONSE:
+I can help with ScienceTechniz research, article submissions, AI in healthcare, Dr. Nambili Samuel’s background, certifications, projects, and collaborations.
+
+[INTENT] help_prompt
+help
+i have a question
+can i ask you something
+RESPONSE:
+Of course! Go ahead — ask me anything about ScienceTechniz, AI, healthcare technology, or Dr. Nambili Samuel.
+
+################################################
+# FOUNDER PROFILE – CORE IDENTITY
+################################################
+
+[INTENT] founder_identity
+who is nambili samuel
+tell me about nambili
+RESPONSE:
+Dr. Nambili Samuel is a Namibian medical physician, AI researcher, programmer, and founder of ScienceTechniz with extensive military and healthcare experience.
+
+[INTENT] founder_medical
+is dr nambili a doctor
+medical doctor
+RESPONSE:
+Yes. Dr. Nambili Samuel is a qualified medical physician with clinical experience in the Namibian Defence Force.
+
+[INTENT] founder_origin
+where is nambili from
+nationality
+RESPONSE:
+Dr. Nambili Samuel is from Namibia 🇳🇦 and currently works internationally.
+
+################################################
+# MILITARY & SECURITY BACKGROUND
+################################################
+
+[INTENT] founder_military
+is nambili a soldier
+military service
+RESPONSE:
+Yes. Dr. Nambili Samuel is an ex-soldier who served 19 years in the Namibian Defence Force (2002–2021).
+
+[INTENT] military_training
+where did he receive military training
+RESPONSE:
+He received military training at Osona Military School in Namibia.
+
+[INTENT] combat_medic
+combat medic
+what did he do as a medic
+RESPONSE:
+As a Combat Medic, Dr. Nambili Samuel provided emergency medical care, coordinated evacuations, administered medications, and supported military healthcare operations.
+
+[INTENT] intelligence_role
+defence intelligence officer
+ethical hacker
+RESPONSE:
+Dr. Nambili Samuel served as a Defence Intelligence Officer and is a Cisco-certified ethical hacker with cybersecurity and cyber-warfare expertise.
+
+################################################
+# TECHNICAL & AI EXPERTISE
+################################################
+
+[INTENT] programming_skills
+can nambili code
+programming skills
+RESPONSE:
+Yes. Dr. Nambili Samuel is skilled in Python, R, JavaScript, C++, HTML, and SQL for AI, bioinformatics, and software development.
+
+[INTENT] ai_ml_expertise
+ai machine learning skills
+RESPONSE:
+Dr. Nambili Samuel has strong expertise in AI and machine learning, applying these technologies to healthcare, biometrics, and security systems.
+
+[INTENT] bioinformatics_skills
+next generation sequencing
+bioinformatics
+RESPONSE:
+Yes. He has experience in bioinformatics, including Next-Generation Sequencing and computational biology.
+
+################################################
+# EDUCATION & CERTIFICATIONS
+################################################
+
+[INTENT] education_background
+where did nambili study
+what did he study
+RESPONSE:
+Dr. Nambili Samuel studied Medicine, Bioengineering, Big Data, Computer Programming, Military Sciences, and advanced AI-related disciplines.
+
+[INTENT] certifications
+what certifications does he have
+RESPONSE:
+He holds certifications from WHO, NIH, Harvard, Johns Hopkins, Stanford, IBM, Oracle, Cisco, Google, AWS, and other leading institutions.
+
+################################################
+# RESEARCH & PROJECTS
+################################################
+
+[INTENT] research_focus
+what research does he do
+RESPONSE:
+Dr. Nambili Samuel conducts interdisciplinary research combining healthcare, artificial intelligence, biometrics, cybersecurity, and data science.
+
+[INTENT] projects
+what projects has he worked on
+RESPONSE:
+His projects include DNA databases, biometric and facial recognition systems, healthcare AI models, and security-focused technologies.
+
+################################################
+# LEARNING & EDUCATIONAL TOPICS
+################################################
+
+[INTENT] learning_ai
+building llms
+medical imaging ai
+RESPONSE:
+You can learn about building LLMs from scratch, implementing models like LLaMA with PyTorch, and applying AI to medical imaging and diagnostics.
+
+[INTENT] health_informatics
+what is health informatics
+RESPONSE:
+Health informatics uses IT and data science to collect, manage, and analyze health data to improve patient care and healthcare systems.
+
+################################################
+# FALLBACK
+################################################
+
+[INTENT] fallback
+RESPONSE:
+I can help with ScienceTechniz research, AI in healthcare, article submissions, and Dr. Nambili Samuel’s background. Try rephrasing your question 🙂
