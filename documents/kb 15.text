@@ -1,0 +1,184 @@
+################################################
+# SCIENCETECHNIZ – SUBMISSIONS & PUBLICATIONS
+################################################
+
+[INTENT] submission_review_process
+review process
+how are submissions reviewed
+RESPONSE:
+Our review process includes initial editorial screening, peer review by domain experts, assessment of scientific validity and innovation, evaluation of practical applications, and a final editorial decision. The process typically takes 2–4 weeks.
+
+[INTENT] submission_guidelines
+submission guidelines
+article requirements
+RESPONSE:
+Submissions must be original, unpublished, methodologically sound, clearly structured, properly referenced, ethically compliant, and relevant to AI, healthcare technology, or related fields.
+
+[INTENT] submission_benefits
+benefits of publishing
+why publish with sciencetechniz
+RESPONSE:
+Publishing with ScienceTechniz offers global visibility, interdisciplinary reach, professional peer review, rapid publication timelines, and networking opportunities with leading researchers.
+
+[INTENT] review_timeline
+how long does review take
+RESPONSE:
+The review timeline is typically 2–4 weeks, including screening, peer review, revisions if needed, and final editorial decision.
+
+################################################
+# CONTENT & ACCESS
+################################################
+
+[INTENT] publishing_frequency
+how often is content published
+RESPONSE:
+New content is published regularly, with major features released weekly and shorter insights shared throughout the week.
+
+[INTENT] content_language
+what languages do you publish in
+RESPONSE:
+ScienceTechniz primarily publishes in English to reach a global audience, with occasional translations or summaries for significant content.
+
+[INTENT] access_model
+is sciencetechniz free
+RESPONSE:
+We offer both free and premium content. Research summaries are freely accessible, while some in-depth content may require subscription.
+
+[INTENT] republishing_policy
+can i republish content
+RESPONSE:
+Republishing requires prior written permission and proper attribution. Contact us for licensing or republication requests.
+
+################################################
+# COLLABORATION & PARTNERSHIPS
+################################################
+
+[INTENT] collaboration_opportunities
+collaborate
+partner with sciencetechniz
+RESPONSE:
+We collaborate with universities, research institutions, hospitals, tech companies, and educational organizations on joint research, publications, and innovation projects.
+
+[INTENT] consulting_services
+consulting services
+do you offer consulting
+RESPONSE:
+ScienceTechniz provides consulting in AI applications, bioinformatics, data science, cybersecurity, and medical technology development.
+
+################################################
+# RESEARCH FOCUS AREAS
+################################################
+
+[INTENT] ai_research_focus
+ai research focus
+ai in healthcare
+RESPONSE:
+Our AI research focuses on medical diagnostics, treatment optimization, drug discovery, healthcare analytics, medical imaging, predictive models, and ethical AI in clinical settings.
+
+[INTENT] bioinformatics_focus
+bioinformatics research
+RESPONSE:
+Our bioinformatics work includes genomic analysis, protein structure prediction, drug-target interaction studies, biomedical data mining, and AI-driven computational biology.
+
+[INTENT] cybersecurity_focus
+cybersecurity topics
+RESPONSE:
+We cover healthcare cybersecurity topics such as patient data protection, medical device security, secure AI systems, blockchain in healthcare, and emerging cyber threats.
+
+################################################
+# EVENTS & COMMUNITY
+################################################
+
+[INTENT] events_conferences
+events
+webinars
+RESPONSE:
+ScienceTechniz organizes webinars, virtual conferences, and scientific discussions on AI, healthcare technology, and emerging innovations.
+
+[INTENT] social_media
+social media presence
+RESPONSE:
+We maintain active social media channels where we share research highlights, insights, and platform updates.
+
+################################################
+# FOUNDER – DR. NAMIBILI SAMUEL
+################################################
+
+[INTENT] founder_identity
+who is dr nambili
+who founded sciencetechniz
+RESPONSE:
+ScienceTechniz was founded by Dr. Nambili Samuel, a Namibian physician, AI researcher, data scientist, and bioinformatics programmer.
+
+[INTENT] founder_origin
+where is nambili from
+nationality
+RESPONSE:
+Dr. Nambili Samuel is from Namibia, Southern Africa, and is currently based in Turkey.
+
+[INTENT] founder_expertise
+dr nambili expertise
+background
+RESPONSE:
+Dr. Samuel’s expertise includes clinical medicine, artificial intelligence, data science, bioinformatics, cybersecurity, and medical technology innovation.
+
+[INTENT] founder_contact
+contact dr nambili
+RESPONSE:
+You can contact Dr. Nambili Samuel through ScienceTechniz via info@sciencetechniz.com or the website contact form.
+
+################################################
+# PLATFORM IDENTITY
+################################################
+
+[INTENT] platform_description
+what is sciencetechniz
+what do you do
+RESPONSE:
+ScienceTechniz is a digital research platform and journal publishing peer-reviewed work in AI, healthcare technology, data science, and cybersecurity.
+
+[INTENT] platform_trust
+can i trust sciencetechniz
+peer reviewed
+RESPONSE:
+Yes. All published research undergoes rigorous peer review, editorial oversight, and scientific validation to ensure quality and credibility.
+
+################################################
+# OPPORTUNITIES
+################################################
+
+[INTENT] author_opportunities
+can i write for you
+international authors
+RESPONSE:
+We welcome authors from all countries, including students and early-career researchers. International submissions are encouraged.
+
+[INTENT] internships_jobs
+internships
+job openings
+RESPONSE:
+We offer research internships and periodically have openings for researchers and specialists. Follow updates or contact us for current opportunities.
+
+################################################
+# CHATBOT IDENTITY
+################################################
+
+[INTENT] bot_identity
+who are you
+are you ai
+RESPONSE:
+I’m the ScienceTechniz AI Assistant 🤖 — here to help you learn about our research, publications, submissions, and collaborations.
+
+[INTENT] bot_help
+help
+what can i ask
+RESPONSE:
+You can ask me about ScienceTechniz research, article submissions, collaborations, Dr. Nambili Samuel, AI in healthcare, or platform services.
+
+################################################
+# FALLBACK
+################################################
+
+[INTENT] fallback
+RESPONSE:
+I can help with ScienceTechniz research, submissions, AI in healthcare, collaborations, and platform info. Try rephrasing your question!
