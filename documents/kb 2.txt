@@ -1,0 +1,141 @@
+# Eva Geises – Namibia Adventure Tourism Knowledge Base
+# Focus: Adventure activities, outdoor experiences, extreme sports
+
+[INTENT] adventure_overview
+what adventure activities are in namibia
+adventure tourism namibia
+things to do in namibia adventure
+RESPONSE:
+Namibia is a top adventure destination offering activities like sandboarding, skydiving, ballooning, hiking, 4x4 trails, quad biking, paragliding, canoeing, and extreme endurance races.
+
+[INTENT] angling_fishing
+fishing in namibia
+angling namibia
+where can i fish in namibia
+RESPONSE:
+Namibia offers excellent angling along the central coast, especially between Walvis Bay and Swakopmund. Popular catches include cob, steenbra, blacktail, and mackerel, while inland rivers host species like tilapia and trout.
+
+[INTENT] ballooning
+hot air balloon namibia
+ballooning sossusvlei
+RESPONSE:
+Hot air ballooning in Namibia, especially over Sossusvlei, offers breathtaking views of the world’s oldest desert, towering dunes, and dramatic mountain landscapes.
+
+[INTENT] birding_adventure
+birding adventure namibia
+best birding places namibia
+RESPONSE:
+Namibia boasts over 670 bird species. Top birding areas include the north-eastern regions, Bwabwata National Park, Impalila Island, Walvis Bay Lagoon, and Sandwich Harbour.
+
+[INTENT] camel_riding
+camel rides namibia
+camel trekking damaraland
+RESPONSE:
+Camel trekking in Damaraland is a unique way to explore Namibia’s wilderness. Guided expeditions run through scenic desert landscapes with small groups for an intimate experience.
+
+[INTENT] canoeing_rafting
+canoeing in namibia
+rafting namibia
+RESPONSE:
+Despite its arid climate, Namibia offers canoeing and rafting opportunities on selected rivers and reservoirs, usually during seasonal water flows.
+
+[INTENT] dolphin_cruises
+dolphin cruises namibia
+walvis bay dolphins
+RESPONSE:
+Dolphin cruises from Walvis Bay offer sightings of Cape fur seals, Heaviside’s dolphins, bottlenose dolphins, and during July to October, whales and leatherback turtles.
+
+[INTENT] horseback_riding
+horse riding namibia
+horseback safaris namibia
+RESPONSE:
+Horseback riding in Namibia takes place across deserts, mountains, and open plains, with guided safaris near Sossusvlei, Damaraland, and Windhoek.
+
+[INTENT] sandboarding
+sandboarding namibia
+dune boarding swakopmund
+RESPONSE:
+Sandboarding is popular near Swakopmund and Walvis Bay. Dunes can reach heights of up to 120 meters and boarding is suitable for beginners with guided operators.
+
+[INTENT] soaring_gliding
+gliding in namibia
+soaring bitterwasser
+RESPONSE:
+Bitterwasser in southeastern Namibia is one of the world’s best soaring and gliding destinations, offering ideal weather, altitude, and clear skies between November and January.
+
+[INTENT] stargazing
+stargazing namibia
+astronomy namibia
+RESPONSE:
+Namibia’s clear skies make it ideal for stargazing. Locations like the Gamsberg Pass host observatories used by professional and amateur astronomers.
+
+[INTENT] offroad_4x4
+4x4 trails namibia
+off road driving namibia
+RESPONSE:
+Namibia offers extensive 4x4 trails across deserts, mountains, and remote regions, providing access to destinations unreachable by standard vehicles.
+
+[INTENT] hiking_trails
+hiking trails namibia
+best hikes namibia
+RESPONSE:
+Namibia offers world-class hiking including the Fish River Canyon Trail, Namib-Naukluft Park hikes, and Waterberg Plateau wilderness trails.
+
+[INTENT] fish_river_hike
+fish river canyon hike
+fish river hiking trail
+RESPONSE:
+The Fish River Canyon Hiking Trail is one of Africa’s greatest hikes. It runs through remote wilderness and requires hikers to be well-prepared, self-sufficient, and medically cleared.
+
+[INTENT] mountain_biking
+mountain biking namibia
+cycling namibia
+RESPONSE:
+Namibia’s central plateau and escarpment offer challenging mountain biking routes with dramatic scenery and rugged terrain.
+
+[INTENT] paragliding
+paragliding namibia
+paragliding swakopmund
+RESPONSE:
+The dunes between Swakopmund and Walvis Bay are among the safest places in the world to learn paragliding, offering views of the desert meeting the Atlantic Ocean.
+
+[INTENT] quad_biking
+quad biking namibia
+atv tours namibia
+RESPONSE:
+Quad biking is popular in coastal towns like Swakopmund and Walvis Bay and allows access to dunes unreachable by vehicles.
+
+[INTENT] rhino_tracking
+rhino tracking namibia
+track rhinos namibia
+RESPONSE:
+Rhino tracking in Namibia offers a guided wildlife experience that combines conservation awareness with an exciting outdoor adventure.
+
+[INTENT] surfing
+surfing namibia
+skeleton bay surfing
+RESPONSE:
+Namibia’s coastline is a hidden surfing gem. Skeleton Bay is famous for having one of the longest breaking waves in the world.
+
+[INTENT] extreme_running
+ultra marathons namibia
+extreme running namibia
+RESPONSE:
+Namibia hosts extreme endurance races such as the Namib Desert Challenge, Fish River Challenge, and the 100 km of Namib Desert race.
+
+[INTENT] skydiving
+skydiving namibia
+skydive swakopmund
+RESPONSE:
+Swakopmund is Namibia’s skydiving hub, offering tandem jumps and training courses for beginners and experienced skydivers.
+
+[INTENT] rock_climbing
+rock climbing namibia
+climbing routes namibia
+RESPONSE:
+Rock climbing in Namibia includes sport and traditional routes, especially in southern regions. The best climbing season is from April to September.
+
+[INTENT] fallback
+RESPONSE:
+I can help you discover adventure experiences across Namibia 🇳🇦  
+Ask me about hiking, extreme sports, desert activities, or coastal adventures!
