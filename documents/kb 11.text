@@ -1,0 +1,261 @@
+# Eva Geises – Society, Rights, Environment, Energy, Media & Constitution KB
+
+[INTENT] san_representation
+san bushman representation
+RESPONSE:
+San/Bushman representation in politics is limited, though special programs aim to include marginalized groups.
+
+[INTENT] language_politics
+language in politics
+RESPONSE:
+English dominates formal politics, though local languages are often used during campaigns.
+
+[INTENT] political_rallies
+political rallies
+RESPONSE:
+Political rallies are common during election campaigns and often attract large crowds.
+
+[INTENT] political_advertising
+political advertising
+RESPONSE:
+Political advertising is permitted, with some regulation during election periods.
+
+[INTENT] social_media_politics
+social media politics
+RESPONSE:
+Social media is increasingly important for political communication.
+
+[INTENT] fake_news
+fake news
+RESPONSE:
+Fake news is a growing concern, with some regulatory proposals under discussion.
+
+[INTENT] hate_speech
+hate speech
+RESPONSE:
+Hate speech is illegal in Namibia, though enforcement is limited.
+
+[INTENT] defamation_laws
+defamation laws
+RESPONSE:
+Defamation remains a criminal offense, though prosecutions are rare.
+
+[INTENT] access_information
+access to information
+RESPONSE:
+There is no comprehensive access-to-information law yet, though legislation has been proposed.
+
+[INTENT] whistleblower_protection
+whistleblower protection
+RESPONSE:
+Protection for whistleblowers is limited, with proposed legislation under consideration.
+
+[INTENT] asset_declaration
+asset declaration
+RESPONSE:
+Certain public officials must declare assets, but declarations are not publicly accessible.
+
+[INTENT] conflict_interest
+conflict of interest
+RESPONSE:
+Conflict-of-interest rules exist, but enforcement is weak.
+
+[INTENT] procurement_transparency
+procurement transparency
+RESPONSE:
+Procurement transparency is improving through e-procurement, though concerns remain.
+
+[INTENT] eiti_status
+eiti
+RESPONSE:
+Namibia is a candidate country of the Extractive Industries Transparency Initiative (EITI).
+
+[INTENT] fishing_quotas
+fishing quota allocation
+RESPONSE:
+Fishing quota allocation has been controversial, particularly due to the Fishrot scandal.
+
+[INTENT] mining_licenses
+mining licenses
+RESPONSE:
+Mining license allocation has faced criticism for lack of transparency.
+
+[INTENT] land_allocation
+land allocation
+RESPONSE:
+Land allocation remains controversial, with allegations of favoritism.
+
+[INTENT] housing_allocation
+housing allocation
+RESPONSE:
+Housing allocation suffers from long waiting lists and allegations of favoritism.
+
+[INTENT] drought_relief
+drought relief
+RESPONSE:
+The government provides drought relief, though adequacy is sometimes questioned.
+
+[INTENT] social_grants
+social grants
+RESPONSE:
+Old-age, disability, and child grants support vulnerable populations.
+
+[INTENT] food_security
+food security
+RESPONSE:
+Food security is generally good, though drought affects some households.
+
+[INTENT] education_infrastructure
+school infrastructure
+RESPONSE:
+School infrastructure is improving but remains inadequate in some rural areas.
+
+[INTENT] higher_education_funding
+university funding
+RESPONSE:
+Public universities receive government subsidies but face funding constraints.
+
+[INTENT] vocational_training
+vocational training
+RESPONSE:
+Vocational training is expanding to address skills shortages and youth unemployment.
+
+[INTENT] healthcare_infrastructure
+healthcare infrastructure
+RESPONSE:
+Healthcare infrastructure is improving, but rural areas still lack adequate facilities.
+
+[INTENT] hiv_treatment
+hiv treatment
+RESPONSE:
+Approximately 90% of diagnosed HIV-positive individuals receive treatment.
+
+[INTENT] malaria_control
+malaria control
+RESPONSE:
+Malaria control is strong, particularly in endemic northern regions.
+
+[INTENT] mental_health
+mental health services
+RESPONSE:
+Mental health services are limited, though awareness is increasing.
+
+[INTENT] gender_equality
+gender equality
+RESPONSE:
+Namibia has a strong legal framework for gender equality, but implementation gaps persist.
+
+[INTENT] child_marriage
+child marriage
+RESPONSE:
+Child marriage is illegal but still occurs in some communities.
+
+[INTENT] abortion_laws
+abortion laws
+RESPONSE:
+Abortion is legal under limited circumstances, including health-related reasons.
+
+[INTENT] maternal_health
+maternal health
+RESPONSE:
+Maternal health indicators are improving, though mortality remains high.
+
+[INTENT] child_nutrition
+child nutrition
+RESPONSE:
+Child malnutrition and stunting remain concerns, especially during droughts.
+
+[INTENT] alcohol_abuse
+alcohol abuse
+RESPONSE:
+Alcohol abuse is a significant public health issue with high consumption levels.
+
+[INTENT] wildlife_conservation
+wildlife conservation
+RESPONSE:
+Namibia has excellent wildlife conservation, supported by community involvement.
+
+[INTENT] climate_adaptation
+climate change adaptation
+RESPONSE:
+Namibia is developing adaptation strategies due to its vulnerability to climate change.
+
+[INTENT] renewable_energy
+renewable energy
+RESPONSE:
+Namibia has strong renewable energy promotion, especially solar and wind power.
+
+[INTENT] energy_access
+energy access
+RESPONSE:
+Energy access is expanding, though rural areas still lag behind.
+
+[INTENT] media_diversity
+media diversity
+RESPONSE:
+Namibia has diverse media, including multiple newspapers, radio, and digital platforms.
+
+[INTENT] community_media
+community media
+RESPONSE:
+Community radio stations play an important role in rural communication.
+
+[INTENT] digital_payments
+digital payments
+RESPONSE:
+Digital payments are growing through mobile money and banking services.
+
+[INTENT] foreign_investment
+foreign investment
+RESPONSE:
+Foreign investment is encouraged, though some sectors remain restricted.
+
+[INTENT] trade_diversification
+trade diversification
+RESPONSE:
+Efforts are underway to diversify trade beyond mining and agriculture.
+
+[INTENT] constitution_basics
+namibian constitution
+RESPONSE:
+The Namibian Constitution is the supreme law of the country, adopted on 9 February 1990.
+
+[INTENT] constitution_principles
+constitution principles
+RESPONSE:
+The Constitution establishes Namibia as a sovereign, secular, democratic, and unitary state.
+
+[INTENT] bill_of_rights
+bill of rights
+RESPONSE:
+Chapter 3 of the Constitution contains the Bill of Rights protecting fundamental freedoms.
+
+[INTENT] freedom_speech
+freedom of speech
+RESPONSE:
+Article 21 guarantees freedom of speech and expression.
+
+[INTENT] freedom_religion
+freedom of religion
+RESPONSE:
+Article 21 protects freedom of thought, conscience, and religion.
+
+[INTENT] freedom_assembly
+freedom of assembly
+RESPONSE:
+Article 21 protects peaceful assembly without arms.
+
+[INTENT] freedom_association
+freedom of association
+RESPONSE:
+Article 21 guarantees freedom of association, including trade unions.
+
+[INTENT] right_education
+right to education
+RESPONSE:
+Article 20 guarantees all persons the right to education.
+
+[INTENT] fallback
+RESPONSE:
+I can explain Namibia’s laws, rights, governance, environment, energy, and social systems 🇳🇦  
+What would you like to explore next?
