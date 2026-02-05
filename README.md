@@ -1,13 +1,13 @@
-# 📚 RAG SYSTEM - Document Knowledge Base
+# RAG SYSTEM - Document Knowledge Base
 # ========================================
 
-## 🎉 NEW FEATURE: RAG (Retrieval-Augmented Generation)
+## NEW FEATURE: RAG (Retrieval-Augmented Generation)
 
 Your bot can now read and search through **PDF, Word, and text documents**!
 
 ---
 
-## ✨ WHAT IS RAG?
+## WHAT IS RAG?
 
 **RAG = Retrieval-Augmented Generation**
 
@@ -21,7 +21,7 @@ It's an AI system that:
 
 ---
 
-## 🎯 HOW IT WORKS
+## HOW IT WORKS
 
 ### **1. You Upload Documents**
 Upload files to GitHub repository:
@@ -52,7 +52,7 @@ Etosha National Park is one of Africa's premier game reserves..."
 
 ---
 
-## 📁 GITHUB REPOSITORY SETUP
+## GITHUB REPOSITORY SETUP
 
 ### **Step 1: Create Repository**
 
@@ -115,7 +115,7 @@ RAG_DOCUMENTS_URL=https://api.github.com/repos/YOUR-USERNAME/eva-knowledge/conte
 
 ---
 
-## 🚀 DEPLOYMENT
+## DEPLOYMENT
 
 ### **Files to Upload:**
 
@@ -148,7 +148,7 @@ python-docx==1.1.0
 
 ---
 
-## 🎮 USER COMMANDS
+## USER COMMANDS
 
 ### **For Everyone:**
 
@@ -198,9 +198,9 @@ lions across multiple prides...
 
 _Source: Document Library_
 
-💡 More in documents: namibia-tourism-guide.pdf
+More in documents: namibia-tourism-guide.pdf
 
-Use /documents to see all available docs! 📚
+Use /documents to see all available docs! 
 ```
 
 **Example 2:**
@@ -218,7 +218,7 @@ _Source: Document Library_
 
 ---
 
-## 🔍 SEARCH PRIORITY
+## SEARCH PRIORITY
 
 Bot searches in this order:
 
@@ -235,7 +235,7 @@ Bot searches in this order:
 
 ---
 
-## 📊 FEATURES
+## FEATURES
 
 ### **Intelligent Chunking:**
 - Splits documents into 500-word chunks
@@ -263,7 +263,7 @@ Bot searches in this order:
 
 ---
 
-## 🧪 TESTING
+## TESTING
 
 ### **Test 1: Upload Document**
 
@@ -298,7 +298,7 @@ Bot: Shows list of all documents ✅
 
 ---
 
-## 📈 EXAMPLE DOCUMENTS TO UPLOAD
+## EXAMPLE DOCUMENTS TO UPLOAD
 
 ### **Tourism:**
 - namibia-tourism-guide.pdf
@@ -349,7 +349,7 @@ Documents are now searchable!
 
 ```
 You: /rag_stats
-Bot: 📊 RAG System Statistics
+Bot: RAG System Statistics
 
 📚 Documents: 8
 🔍 Chunks: 145
@@ -401,7 +401,7 @@ Researchers and tourists access real data!
 
 ---
 
-## 🎯 ADVANTAGES
+## ADVANTAGES
 
 ### **vs Manual Q&A:**
 - ❌ Manual: Update bot code for each new fact
@@ -515,7 +515,7 @@ Your bot now has:
 
 ---
 
-## 🚀 GET STARTED
+## GET STARTED
 
 **Right Now:**
 
@@ -527,4 +527,4 @@ Your bot now has:
 6. Ask question about the document
 7. Get instant answer! 🎉
 
-Your bot is now a **document-powered knowledge engine**! 📚🧠✨
+Your bot is now a **document-powered knowledge engine**! 
