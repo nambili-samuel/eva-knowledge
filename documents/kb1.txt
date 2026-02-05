@@ -1,0 +1,119 @@
+# Eva Geises – Namibia Tourism Knowledge Base
+# Focus: Namibia travel, tourism, and general country information
+
+[INTENT] greeting
+hello
+hi
+hey
+good day
+moro
+RESPONSE:
+Hello! I’m Eva Geises 🇳🇦✨ Your guide for Namibia travel, tourism, and local insights. How can I help you explore Namibia?
+
+[INTENT] about_namibia
+what is namibia
+tell me about namibia
+describe namibia
+RESPONSE:
+Namibia is a beautiful country in southern Africa known for vast deserts, dramatic landscapes, rich wildlife, and vibrant cultures. It offers adventure, silence, and unforgettable natural beauty.
+
+[INTENT] best_time_to_visit
+when is the best time to visit namibia
+best time to go to namibia
+when should i travel to namibia
+RESPONSE:
+Namibia can be visited year-round. The dry season from May to October is ideal for wildlife viewing, while the warmer months from October to April are great for bird watching and lush landscapes.
+
+[INTENT] namibia_weather
+what is the weather like in namibia
+namibia climate
+temperature in namibia
+RESPONSE:
+Namibia enjoys about 300 days of sunshine a year. Summers (Jan–March) are hot and may have afternoon rains, while winters (June–August) are cooler with clear skies and pleasant daytime temperatures.
+
+[INTENT] wildlife_overview
+what animals can i see in namibia
+wildlife in namibia
+game viewing namibia
+RESPONSE:
+Namibia is home to the Big Five and many unique species. You can see elephants, lions, cheetahs, rhinos, antelope, seals, and diverse birdlife across the country.
+
+[INTENT] best_game_viewing
+best time for game viewing
+when to see animals in namibia
+safari season namibia
+RESPONSE:
+The best time for game viewing is during the dry season between July and October, when animals gather around waterholes and rivers.
+
+[INTENT] bird_watching
+bird watching in namibia
+best time for birding
+birds of namibia
+RESPONSE:
+The best time for bird watching is during the rainy season from October to April, when migratory birds arrive and natural pans fill with aquatic species like flamingos.
+
+[INTENT] hiking_namibia
+hiking in namibia
+best time for hiking
+fish river canyon hike
+RESPONSE:
+The best time for hiking in Namibia is from April to October. The Fish River Canyon Hiking Trail is open from April 15 to September 15.
+
+[INTENT] getting_to_namibia
+how do i get to namibia
+flights to namibia
+travel to namibia
+RESPONSE:
+Most visitors arrive by air through Windhoek. Air Namibia offers direct flights from Frankfurt, with connections via Johannesburg and Cape Town from many global destinations.
+
+[INTENT] travel_by_road
+can i drive into namibia
+enter namibia by road
+border crossings namibia
+RESPONSE:
+Yes, Namibia can be entered by road through several border posts with South Africa, Botswana, Angola, Zambia, and Zimbabwe. Foreign vehicles must pay a cross-border charge at entry.
+
+[INTENT] transportation_options
+how to travel in namibia
+transport in namibia
+getting around namibia
+RESPONSE:
+You can explore Namibia through self-drive trips, guided tours, fly-in safaris, camping, luxury coaches, trains, and tailor-made specialist tours.
+
+[INTENT] self_drive
+self drive namibia
+is namibia good for self driving
+rent a car namibia
+RESPONSE:
+Namibia is ideal for self-drive travel. The country has well-maintained roads, good infrastructure, and English is widely spoken. A reliable vehicle and sense of adventure are recommended.
+
+[INTENT] accommodation_types
+where to stay in namibia
+accommodation in namibia
+lodges hotels camping
+RESPONSE:
+Accommodation in Namibia ranges from luxury lodges and hotels to guest farms and campsites. Options suit all budgets, from rustic stays to five-star experiences.
+
+[INTENT] camping_namibia
+camping in namibia
+campsites namibia
+RESPONSE:
+Namibia is a camper’s paradise with campsites across the country, including community campsites that offer cultural experiences and scenic natural settings.
+
+[INTENT] visas_entry
+do i need a visa for namibia
+namibia visa requirements
+entry requirements namibia
+RESPONSE:
+Most visitors need a passport valid for at least six months with blank pages. Some nationalities do not require a visa. Tourists can usually stay up to 90 days.
+
+[INTENT] tourism_promotion
+why visit namibia
+what makes namibia special
+RESPONSE:
+Namibia offers towering sand dunes, deep canyons, ancient deserts, rich wildlife, cultural heritage, and peaceful open spaces. It’s a destination for adventure, reflection, and discovery.
+
+[INTENT] fallback
+RESPONSE:
+I’m not sure about that yet 🤔  
+You can ask me about Namibia travel, wildlife, weather, visas, or the best places to explore 🇳🇦✨
